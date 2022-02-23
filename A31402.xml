@@ -1,0 +1,613 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty and benefit of submission to the will of God in afflictions discovered in two sermons delivered upon a special occasion at Stapleford in Leicester-shire / by John Cave ...</title>
+            <author>Cave, John, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31402</idno>
+            <idno type="STC">Wing C1582</idno>
+            <idno type="STC">ESTC R30885</idno>
+            <idno type="EEBO-CITATION">11681331</idno>
+            <idno type="OCLC">ocm 11681331</idno>
+            <idno type="VID">48108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48108)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1481:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty and benefit of submission to the will of God in afflictions discovered in two sermons delivered upon a special occasion at Stapleford in Leicester-shire / by John Cave ...</title>
+                  <author>Cave, John, d. 1690.</author>
+               </titleStmt>
+               <extent>[8], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Providence and government of God.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48108:1" rendition="simple:additions"/>
+            <p>The Duty and Benefit of SUBMISSION to the Will of <hi>GOD</hi> in AFFLICTIONS.</p>
+            <p>Diſcovered in Two SERMONS Upon a ſpecial Occaſion, At <hi>Stapleford</hi> in <hi>LEICESTER-SHIRE.</hi>
+            </p>
+            <p>By JOHN CAVE, Rector of <hi>COLD<g ref="char:EOLhyphen"/>ORTON</hi> in the ſame <hi>County;</hi> And Chaplain to the LORD-BISHOP of <hi>DURHAM.</hi>
+            </p>
+            <q>
+               <p>Iis qui erudiuntur Tolerantia ſuccurrit, obj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctis moleſtiis generoſe reſiſtens, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> efficiens ne animus concidat, ſed pugnet &amp; propulſet Doloris ictus.</p>
+               <bibl>
+                  <hi>Simpl. in Epicte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Quàm pulch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſpectaculum Deo, cùm Chriſtianus cum dolore congreditur, cùm adversùm Minas &amp; Supplicia, &amp; Tormenta componitur.</p>
+               <bibl>
+                  <hi>Minut. Fel.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Richard Chiſwell,</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s Church-Yard, MDCLXXXII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48108:2" rendition="simple:additions"/>
+            <pb facs="tcp:48108:2"/>
+            <head>TO The Right Honourable and Truly Noble THE LORD and LADY SHERARD OF <hi>STAPLEFORD.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe two plain Sermons were compoſed and ſuited to ſerve a great and ſad Occa<g ref="char:EOLhyphen"/>ſion of your <hi>Honours,</hi> reached at your Deſires, heard with your good liking, and most effectually commended by your diligent Obſervation and <hi>Chriſtian</hi> Practice of their Doctrine, and therefore in theſe Reſpects were juſtly your own without the formality of a <hi>Dedica<g ref="char:EOLhyphen"/>tion;</hi> and truly I deſigned them ſo intirely for the Service of your Honourable Family, that their
+<pb facs="tcp:48108:3"/>Preachingh had been their only Publication, and they had continued Yours ſtill in the ſtricteſt Sence of Pro<g ref="char:EOLhyphen"/>priety, if an intimation of your <hi>Honour</hi>'s Deſires (which to me carry the force of a Command) had not only allowed, but obliged me to make them more common: and ſeeing the <hi>Croſs</hi> is not only the Badg, but the Burthen of our <hi>Chriſtianity,</hi> and you have ſo many Fellow-Sufferers in the World, I have reaſon to hope, that others may find the ſame Support and Comfort by theſe ſeaſonable Diſcourſes, which through God's Bleſſing they have happily afforded you.</p>
+            <p>And there being ſo many afflicting Circumſtances (as it is generally known) in your Caſe, your Pati<g ref="char:EOLhyphen"/>ence and <hi>Submiſſion</hi> will want no Advantage of Ex<g ref="char:EOLhyphen"/>ample, but be able to ſpeak more perſwaſively, and make more <hi>Converts</hi> than theſe weak <hi>Sermons</hi> of mine, or the <hi>Oratory</hi> of more <hi>powerful Preachers.</hi>
+            </p>
+            <p>Indeed when <hi>Death</hi> comes ſo near us, and makes ſo deep a Wound in Nature, we need an extrordinary Aſſiſtance of Grace, the Benefit of <hi>Precept</hi> and <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> both, all the Helps which <hi>Philoſophy,</hi> and <hi>Religion</hi> can furniſh, <hi>leſt we be wearied and faint in our Minds.</hi> St. <hi>Hierom</hi> writes of one <hi>Paulina</hi> a <hi>Lady</hi> of a ſteady and well-governed Tem<g ref="char:EOLhyphen"/>per in other Trials, who yet could not bear her <hi>Chil<g ref="char:EOLhyphen"/>drens</hi>
+               <pb facs="tcp:48108:3"/>Death, without an immoderate and unſeemly Reſentment; but ſome allowance may be fairly made to the Tenderneſs of her <hi>Sex,</hi> when we ſee Men who have naturally a greater Conſtancy and Courage, wiſe Men, <hi>religious</hi> Men, ready to fall by the ſame Stroke. <hi>Syneſius</hi> the Biſhop of <hi>Cyrene</hi> was ſo af<g ref="char:EOLhyphen"/>fected with the Death of his <hi>Children,</hi>
+               <note place="margin">Epiſt. 16.</note> that in one of his <hi>Epiſtles,</hi> he <hi>complains that the Remembrance of it, like a lingring Conſumption, waſted him daily, that all the Pleaſure of his Life died with them;</hi> and at laſt, breaks out into this impati<g ref="char:EOLhyphen"/>ent Wailing; <hi>Let me live no longer,</hi> or <hi>elſe for<g ref="char:EOLhyphen"/>get that they are dead.</hi> Yea, how doth the Heart of King <hi>David,</hi> a Saint and a Souldier, melt into a more than a Womaniſh Softneſs, and bewray its Weakneſs and Inſtability, in a Torrent of Tears, and impotent, unmanly Plaints at the Death of one <hi>Abſolom; Abſolom</hi> a <hi>Traitor</hi> and a <hi>Rebel</hi> to his <hi>King</hi> and <hi>Father;</hi> yet becauſe a <hi>Son,</hi> ſtill muſt be lamented in the higheſt Strain of Paſſion.</p>
+            <p>My good <hi>Lord and Lady,</hi> you bewail a <hi>Son</hi> who had nothing of <hi>Abſolom</hi> in him, but his Beauty, who had all the Grace and ſweetneſs of Courteſy, of a most obliging Mind, Speech and Deportment, with<g ref="char:EOLhyphen"/>out any of the Guilt or Blemiſh of Flattery, Affecta<g ref="char:EOLhyphen"/>tion, or Deſign; who wanted no Accompliſhment
+<pb facs="tcp:48108:4"/>beſeeming his Noble Birth and Quality, but excelled in Piety to his <hi>God,</hi> and Reverence to his <hi>Parents,</hi> and a towardly Compliance with the other Inſtructors and Governours of his Youth, whereby he ſoon be<g ref="char:EOLhyphen"/>came the Delight and Ornament of a learned and ver<g ref="char:EOLhyphen"/>tuous <hi>Society,</hi>
+               <note place="margin">Exeter Col<g ref="char:EOLhyphen"/>ledg O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</note> dear to them as a <hi>Child,</hi> and honou<g ref="char:EOLhyphen"/>red by them as a <hi>Patron,</hi> and therefore wept over as both, with a mixt Affection, but not ſo fond, as <hi>rational.</hi>
+            </p>
+            <p>And indeed his obliging Qualifications procured him ſuch a general Intereſt and Eſteem, that every one who knew him ſeemed to mourn all along for him, as if the Loſs had been only his without any Partner to ſhare his Grief.</p>
+            <p>But I deſign not in this,<note place="margin">In Mr. <hi>Lax<g ref="char:EOLhyphen"/>ton</hi>'s Sermon, preached on the day of his Interment.</note> ſo much a Character of his <hi>Worth,</hi> (which hath been drawn already in better Colours, and with more graceful Strokes, than my poor Stock, or Skill can ſupply) as a juſt Commendation of your <hi>Honours</hi> ſingular Piety and Patience, your deep ſence of the Diſpleaſure, and yet your meek and humble Submiſſion to the Will of the <hi>Father of Spirits,</hi> in taking from you a <hi>Son</hi> of ſo much Delight and Hope, and that in the Prime and the Bloſom of his Years, when he ſeemed to be all Life and Vigor; a very ſevere and ſearching Trial.</p>
+            <pb facs="tcp:48108:4"/>
+            <p>Yet I who had the unhappy Honour to be admitted into the darkeſt <hi>Scene</hi> of your Sorrow, and to ſee your <hi>Vertue</hi> ſurprized with a most dreadful Aſſault, ſoon perceived it happily ſuccoured with ſuch forces of Reaſon and Religion, as aſſured an equal Conflict, if not a Victory.</p>
+            <p>And I know you have often bleſſed <hi>God,</hi> who by a wonderful Supply of his <hi>Grace</hi> hath maintained your Patience and Fortitude, and with the <hi>Temptation given a way to eſcape,</hi> and ſecure your Innocence.</p>
+            <p>And I ſhall earneſtly pray, that the <hi>God</hi> of all Conſolation, would be pleaſed ſtill to ſuggeſt to you ſuch Religious Conſiderations as may eſtabliſh, and encreaſe your preſent Comfort, and lead you through all the obſcure Paſſages of this <hi>Veil of Tears,</hi> into the brighteſt Glories of Everlaſting Light and Joy, that the Belief of your <hi>dear Son</hi>'s happy Tranſla<g ref="char:EOLhyphen"/>tion, and the well-grounded Expectation of your <hi>own,</hi> may mortify all your earthly Affections, make you every day leſs concerned for what you enjoy, or ſuffer in this World; and that the Felicities of <hi>Eter<g ref="char:EOLhyphen"/>nity,</hi> may render the good or evil things of <hi>Time</hi> very indifferent to you. To theſe my Prayers, I ſhall
+<pb facs="tcp:48108:5"/>upon all Occaſions add my beſt Endeavours to ſerve your <hi>Honours,</hi> in promoting your higheſt, your hea<g ref="char:EOLhyphen"/>venly Intereſt and Benefit, as becomes my Office and Obligations; there being no one more truly ſenſible of your <hi>Honour's</hi> Great Favours, than is,</p>
+            <closer>
+               <salute>My Noble Lord and Lady,</salute>
+               <signed>Your Honours moſt Faithful, Affectionate, and Obedient Servant, <hi>JOHN CAVE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermons">
+            <pb n="1" facs="tcp:48108:5"/>
+            <head>Of Submiſſion to the Will of God.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEB. xii. ix.</hi>
+                  </bibl>
+                  <p>—We have had Fathers of our Fleſh which corrected us, and we gave them Reverence; ſhall we not much rather be in Subjection to the Father of Spi<g ref="char:EOLhyphen"/>rits, and live?</p>
+               </q>
+            </epigraph>
+            <div type="sermon">
+               <p>
+                  <seg rend="decorInit">O</seg>UR <hi>Bleſſed Saviour,</hi> who was himſelf, <hi>a Man of Sorrows, and acquainted with Grief,</hi> bequeathed a Legacy of Suffe<g ref="char:EOLhyphen"/>rings unto the Heirs of his Glory, and <hi>it is through manifold Tribulations that we are to enter into the Kingdom of Heaven:</hi> So that we are not only <hi>born to Trouble</hi> by the common condition of our Nature (which like the Earth that the Lord hath curſed, brings forth nothing but Briers and Thorns) but alſo <hi>born again</hi> to it in the State of our <hi>Chriſtianity,</hi> and trained up in the School of Croſſes and Afflictions, under the Diſcipline of our heavenly Maſter. But he that hath called us to ſuffer with and for himſelf, hath alſo given us the ſureſt Supports, and the ſtrongeſt Conſolations, in the moſt needful time of
+<pb facs="tcp:48108:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:48108:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:48108:7"/>our Diſtreſs, by ſetting before us a <hi>Joy unſpeakable,</hi> and over-balancing our <hi>light Afflictions</hi> with a <hi>more exceed<g ref="char:EOLhyphen"/>ing weight of Glory,</hi> exhorting us to Patience by his Precepts, and perſwading us to it by his Promiſes, but more eſpecially inſtructing us therein by his own moſt exemplary Submiſſion and Reſignation of Mind to the Will of his <hi>Father.</hi> And his great <hi>Apoſtle,</hi> having in the foregoing <hi>Chapter,</hi> reckoned up in order ſeveral eminent Patterns of Faith and Patience, in the begin<g ref="char:EOLhyphen"/>ning of this points, as from thoſe many <hi>Witneſſes</hi> or <hi>Mar<g ref="char:EOLhyphen"/>tyrs,</hi> to this one glorious and triumphant Sufferer, <hi>Chriſt Jeſus, the Author and Finiſher of our Faith;</hi> ani<g ref="char:EOLhyphen"/>mating us by the Example of his victorious Patience, to a paſſive Fortitude and Courage in our ſharpeſt fight of Afflictions, to an unwearied Perſeverance in the rougheſt ways of Vertue. <hi>Let us run with Patience the Race that is ſet before us;</hi> looking <hi>unto Jeſus, the Au<g ref="char:EOLhyphen"/>thor and Finiſher of our Faith;</hi>
+                  <note place="margin">
+                     <hi>Verſ.</hi> 1, 2.</note> 
+                  <hi>who for the Joy that was ſet before him, endured the Croſs, deſpiſing the Shame.</hi> Look unto him, not only to admire, but to imitate the Reſolution and Invincibility of his Spirit, that you may not ſink under the <hi>Croſs</hi> which he <hi>endured,</hi> nor be over-whelmed with the <hi>Shame</hi> which he <hi>deſpiſed;</hi> for to this very end and purpoſe you are to <hi>conſider him</hi> that <hi>endured ſuch Contradiction of Sinners againſt himſelf,</hi>
+                  <note place="margin">Verſ. 3.</note> 
+                  <hi>leſt you be wearied and faint in your Minds.</hi> Nay, conſider how much leſs you ſuffer then he did; his <hi>Soul was exceeding ſorrowful unto Death:</hi> To <hi>Death,</hi> which draws an everlaſting Vail over all the Glories and Delights of this World; but Joy and Comfort may again break through your cloſeſt Mourning. He ſhed his precious Blood for you, you only ſhed Tears for your ſelves; tho you labour under many Sorrows,
+<pb n="3" facs="tcp:48108:7"/>and have more Sins to ſtrive againſt, yet you have not <hi>reſiſted unto Blood;</hi> yet you live ſtill,<note place="margin">Verſ. 4.</note> and may out-live all your <hi>Afflictions,</hi> unleſs you make them <hi>mortal</hi> by your own peeviſhneſs, which in themſelves, or rather in the hand of your beſt <hi>Phyſician,</hi> are only <hi>medicinal</hi> and healthful.</p>
+               <p>And he hath told you as much, if you have not <hi>forgotten the Exhortation which ſpeaketh unto you, as unto Children;</hi>
+                  <note place="margin">Verſ. 4.</note> and aſſureth you of his <hi>fatherly</hi> Love and Tenderneſs, when he makes you ſmart moſt under his correcting Hand: <hi>My Son, deſpiſe not thou the chaſtning of the Lord; nor faint when thou art rebuked of him:</hi> Be not <hi>ſtubborn</hi> againſt him, nor <hi>inſenſible</hi> of his Diſpleaſure; for it is the <hi>chaſtning of the Lord,</hi> who hath power and right to puniſh: but yet be not too much dejected; for he ſpeaks you, and deals with you, not as Enemies, nor Servants, but as Children, and plainly diſcovers his <hi>fatherly</hi> Tenderneſs even in theſe Exerciſes of his <hi>Lordly</hi> Dominion, as it follows in the <hi>6th, 7th,</hi> and <hi>8th Verſes</hi> of this <hi>Chapter; For whom the Lord loveth he chaſteneth, and ſcourgeth every Son whom he receiveth. If ye endure chaſtning, God dealeth with you as with Sons; for what Son is he whom the Father chaſt<g ref="char:EOLhyphen"/>neth not? but if ye be without Chaſtiſement, whereof all are Partakers, then are ye Baſtards, and not Sons.</hi>
+               </p>
+               <p>This Conſideration, if any, methinks ſhould eaſe our Hearts in Trouble, and keep us from fainting under God's Rebukes, <hi>viz.</hi> that his <hi>Chaſtiſements</hi> are the Ef<g ref="char:EOLhyphen"/>fects and Arguments of his Love and Good-will to<g ref="char:EOLhyphen"/>wards us, at leaſt-wiſe if we endure them as becometh <hi>Children,</hi> with a dutiful Regret for the Sins, the <hi>Faults</hi> that procured them, and an humble Subjection to the <hi>Hand</hi> that inflicts them.</p>
+               <pb n="4" facs="tcp:48108:8"/>
+               <p>And that it is our <hi>Interest,</hi> as well as our <hi>Christian</hi> Duty, ſo to do; our <hi>Apoſtle</hi> further demonſtrates by a very argumentative Compariſon, in the words of my <hi>Text, We have had Fathers of our Fleſh, and we gave them Reverence; ſhall we not much rather be in Subjection unto the Father of Spirits, and live?</hi>
+               </p>
+               <p>
+                  <hi>We have had Fathers of our Fleſh;</hi> that is, of our Bo<g ref="char:EOLhyphen"/>dy, which conſiſts for the moſt part of <hi>Fleſh;</hi> or, <hi>Fathers</hi> of <hi>this Life, which we now live in the Fleſh;</hi> a Life exer<g ref="char:EOLhyphen"/>ciſed with <hi>fleſhly</hi> Inſtruments, and maintained with fleſhly Supplies; theſe <hi>Fathers</hi> corrected and puniſhed us as they ſaw occaſion, ſometimes with-holding their Favours, otherwhiles taking away our Toys and Va<g ref="char:EOLhyphen"/>nities, the Entertainments of our <hi>childiſh</hi> Affections; ſometimes threatning, and otherwhiles laying on the Rod, and we <hi>gave them Reverence;</hi> we did not only take all patiently at preſent, but ſtood in awe of them for the future, honouring their Authority, and fearing their Diſpleaſure; <hi>How much rather ſhall we be in Sub<g ref="char:EOLhyphen"/>jection unto the Father of Spirits?</hi> that is, the <hi>Father</hi> of our Souls, <hi>God</hi>'s immediate Off-ſpring, or of our Spiritual Life, and all that appertains more directly thereunto; <hi>Shall we not much rather be in Subjection to this heavenly Father?</hi> who is infinitely more excellent in himſelf, in his <hi>Wiſdom, Power,</hi> and <hi>Goodneſs,</hi> who is the Author of our more noble part, the Soul, and upholds us in a better Being, than that which we derive from our natural Parents, and deſigns us a fruit and benefit of his Correction, beyond the Confines of this World, a happy Immortality, after a troubleſome dying Life, which is implied in the laſt word of my <hi>Text, Live. Shall we not much rather be in Subjection to the Father of Spirits, and live?</hi>
+               </p>
+               <pb n="5" facs="tcp:48108:8"/>
+               <p>In the Words thus explained and paraphraſed, we have.</p>
+               <list>
+                  <item>1ſt, <hi>A Duty implied or ſuppoſed, the Submiſſion of Children to their particular Parents.</hi>
+                  </item>
+                  <item>2dly, <hi>A Duty expreſſed, the Subjection of all Mankind, but eſpecially of Chriſtians, to the <g ref="char:V">Ʋ</g>niverſal Father.</hi>
+                  </item>
+                  <item>3dly, <hi>The Preference of this Duty to the former.</hi>
+                     <list>
+                        <item>1. <hi>In reſpect of the Excellency and Superiority of Fatherhood.</hi>
+                        </item>
+                        <item>2. <hi>In regard of the End and Benefit of his Di<g ref="char:EOLhyphen"/>ſcipline.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <item>1ſt, <hi>We are taught the Duty of Children's Submiſſion to their immediate and proper Parents,</hi> viz. That they ought to own and honour <hi>their</hi> Authority, in their <hi>Corrections,</hi> as well as in their Commands or Inſtructi<g ref="char:EOLhyphen"/>ons. <hi>We had Fathers of our Fleſh, who corrected us, and we gave them Reverence;</hi> that is, we did well ſo to do.</item>
+                  <item>
+                     <hi>2dly,</hi> By an Argument at leaſt <hi>à pari,</hi> from an Equa<g ref="char:EOLhyphen"/>lity of Compariſon; we are taught that we ought to fear and honour our <hi>Common Father,</hi> to be <hi>in Subjection</hi> to him, becauſe he is a <hi>Father</hi> too.</item>
+                  <item>
+                     <hi>3dly,</hi> By an Argument in another reſpect <hi>à diſpari,</hi> from the leſs to the greater; we are taught that we ought to be more <hi>ſubject to him.</hi>
+                  </item>
+               </list>
+               <p n="1">1. In regard of the Excellency and Superiority of his Nature, and his Relation to us; <hi>Shall we not much rather be in Subjection unto the Father of Spirits?</hi>
+               </p>
+               <p n="2">2. In regard of the End and Benefit of his Diſcipline, which reacheth beyond the Intereſts of this preſent State, and giveth Life and Happineſs in another. <hi>Shall we not rather be in Subjection unto the Father of Spirits, and live?</hi>
+               </p>
+               <pb n="6" facs="tcp:48108:9"/>
+               <p>I begin to ſpeak ſomething very briefly upon the Duty ſuppoſed, <hi>viz.</hi>
+               </p>
+               <p n="1">I. <hi>That Children ought to ſubmit to the Corrections of their natural Parents:</hi> They muſt neither ſturdily ſhake off, nor complain and droop too much under the Yoke, but reverence their Authority in the harſheſt and moſt unpleaſant Exerciſes thereof, tempering Joy with Fear, and pious Sorrow into a true Patience, and ſeemly Moderation of Spirit; equally bearing the Smiles and Frowns of their comforting, and their chaſtning Love, and overcoming thoſe Evils by <hi>ſuffering,</hi> to which they might not oppoſe an active Force.</p>
+               <p>For the Law of Nature, and Nations, as well as the Law of <hi>God,</hi> in the fifth Commandment, teach us the ſame that <hi>Ben-Sirach</hi> doth,<note place="margin">
+                     <hi>Ecclus.</hi> 3.2.</note> 
+                  <hi>The Lord hath given the Father Honour, or Power, over the Children, and hath confirmed the Authority of the Mother over the Sons;</hi> and therefore he exhorts, <hi>Verſe</hi> 8, <hi>Honour thy Father in thy Work, and in thy Word, &amp; in omni Patientia,</hi> as it is in the <hi>Vulgar Latine, in all Patience;</hi> that is, ſubmit to his Animadverſions and Chaſtiſements; and this the young <hi>Greek,</hi> that <hi>Plutarch</hi> ſpeaks of, was taught in <hi>Zeno</hi>'s School, <hi>I have learned,</hi> ſaith he, <hi>patiently to bear my Fa<g ref="char:EOLhyphen"/>ther's Anger.</hi> And indeed the Anger of a <hi>Father</hi> being not only the right of his Power and Place, but for the moſt part, the effect of his Love too, <hi>Children</hi> are not to bear it only as a <hi>Burden,</hi> but to receive it as a <hi>Bleſ<g ref="char:EOLhyphen"/>ſing,</hi> as a means to ſecure that their <hi>filial</hi> Obedience and Reverence, to which God hath made ſo many, and ſo ample Promiſes of Good even in this Life.</p>
+               <p>And the ſame Reaſons of <hi>Subjection</hi> will hold, if not improve, in reverence to a more <hi>common Father,</hi> the
+<pb n="7" facs="tcp:48108:9"/>Governour of a larger <hi>Family;</hi> yet in a ſenſe the <hi>Fa<g ref="char:EOLhyphen"/>ther of our Fleſh</hi> too, and ſubordinate to the <hi>Father of Spirits,</hi> as having a right to direct and rule our out<g ref="char:EOLhyphen"/>ward Deportment in order to a <hi>general</hi> Good, and pub<g ref="char:EOLhyphen"/>lick Peace, though by a <hi>particular</hi> Grievance, or perſo<g ref="char:EOLhyphen"/>nal Diſtreſs ſometimes; I mean the <hi>Father of our Coun<g ref="char:EOLhyphen"/>try,</hi> whom we muſt reverence even when he <hi>corrects</hi> and rules with Rigor, and to whom we muſt be ſubject not only for <hi>Wrath</hi> or Fear, but for Love and Intereſt, yea for <hi>Conſcience ſake,</hi> and by virtue of our <hi>Subjection</hi> unto the <hi>Father of Spirits,</hi> who hath placed us (only with a reſerve for his own Prerogative) under his Dominion and Juriſdiction. But this minds me to pro<g ref="char:EOLhyphen"/>ceed to the ſecond Particular, <hi>viz.</hi> to ſhew you,</p>
+               <p n="2">II. <hi>That it is the Duty of all Mankind, eſpecially of us Chriſtians, to be in Subjection to God the common Father,</hi> and chief of all the Tribes and Families.</p>
+               <p>
+                  <hi>Here I ſhall undertake to ſhew you,</hi> 1. <hi>Wherein our Subjection to this Father doth conſiſt.</hi> And then, 2. <hi>Con<g ref="char:EOLhyphen"/>firm the Doctrine by Proof and Reaſon.</hi>
+               </p>
+               <p n="1">1. Touching the nature and extent of this <hi>Subjection,</hi> it muſt be of a vaſt Latitude, not only <hi>exceeding broad,</hi> as <hi>God's Commandments,</hi> but as his Corrections too, embracing every <hi>Law,</hi> and kiſſing every Rod of his, complying with all the Ends of his <hi>Providence,</hi> ſo far as he is pleaſed to notify them to us, being equally diſpoſed to do, and ſuffer his Will, in one Inſtance as well as another, without diſpute or repining. But in my <hi>Text,</hi> it hath reſpect to the <hi>ſuffering</hi> part principally, if not only, to our bearing thoſe <hi>Afflictious</hi> which God ſends ſometimes to humble us for our Sins paſt, ſome<g ref="char:EOLhyphen"/>times to check a growing Vice, and otherwhile to
+<pb n="8" facs="tcp:48108:10"/>prevent a future Vanity and Diſorder of Life. And I ſhall endeavour to ſhew you briefly;</p>
+               <list>
+                  <item>1. <hi>Wherein this Subjection doth not conſiſt.</hi> And,</item>
+                  <item>2. <hi>Poſitively, wherein it doth.</hi>
+                  </item>
+               </list>
+               <p n="1">1. <hi>It doth not conſiſt in chooſing Affliction, or bringing Trouble upon our ſelves, when we may fairly avoid it.</hi>
+               </p>
+               <p>Nor, 2. <hi>In being inſenſible under it, when it lights upon us.</hi>
+               </p>
+               <p n="1">1. It doth not conſiſt in chuſing <hi>Affliction,</hi> or expe<g ref="char:EOLhyphen"/>ſing our ſelves to unneceſſary Danger and Trouble.</p>
+               <p>
+                  <hi>Eſtius</hi> indeed renders it actively, <hi>nonne ſubjiciemus nos ipſos?</hi> ſhall we not <hi>ſubject</hi> our ſelves? But then the meaning will not be, that we ſhould make, or lay on, our own <hi>Burdens,</hi> but that we ſhould bow and ſtoop to <hi>God's Impoſitions.</hi>
+                  <note place="margin">Seneca Epla. 62.</note> For <hi>Afflictions</hi> conſidered for<g ref="char:EOLhyphen"/>mally, in themſelves, are Oppreſſions and Diſtreſſes of Nature, and ſo evil; and it is only the Grace, Power, and Providence of God, that brings good out of them, and makes them at any time profitable to us.</p>
+               <p>And therefore <hi>Tormenta à me abeſſe velim,</hi> ſaid the great <hi>Stoick</hi> himſelf, I am not in love with Torments, I do not deſire Croſſes, <hi>Sed ſi ſuſtinenda fuerint, ut me in illis fortiter, animoſe, honeſtè geram opiabo;</hi> but if they be im<g ref="char:EOLhyphen"/>poſed, I will pray that I may bear them with an unbro<g ref="char:EOLhyphen"/>ken Spirit, and a becoming Courage and Reſolution. And queſtionleſs, though our <hi>Chriſtian</hi> Religion beſt enableth us to undergo and and overcome all outward Troubles, yet it furniſheth us, as well with Wiſdom to decline them when we may, as with Strength and For<g ref="char:EOLhyphen"/>titude to encounter their moſt violent Aſſaults. <hi>A wiſe Man,</hi> ſaith <hi>Soloman,</hi> foreſees a Danger, and will do his
+<pb n="9" facs="tcp:48108:10"/>beſt to avoid it. Wherefore it was our <hi>Bleſſed Savi<g ref="char:EOLhyphen"/>our</hi>'s own Advice to his <hi>Diſciples,</hi>
+                  <note place="margin">Mat. 10.17, 23.</note> to <hi>be wiſe</hi> as Serpents in this ſenſe, to keep out of harms way, and to <hi>be<g ref="char:EOLhyphen"/>ware of Men that would deliver up to Counſels:</hi> yea fur<g ref="char:EOLhyphen"/>ther in the <hi>23d Verſe</hi> of that <hi>Chapter, When they perſe<g ref="char:EOLhyphen"/>cute them in one City, to flee to another.</hi>
+                  <note place="margin">Prov. 17.17.</note> And <hi>Solomon</hi> had told the World long before, or rather recorded it among his <hi>Proverbs,</hi> as a profitable Reſult of common Obſervation and Experience; <hi>A prudent Man ſeeth the Plague, and hideth himſelf: but the fooliſh Man goeth on ſtill and is puniſhed.</hi> And again, <hi>Bleſſed is he that feareth always, ſaith the ſame wiſe King;</hi> for Diſtruſt is the Sinew of Wiſdom, <hi>Et bonum eſt timere omnia ut nihil timeamus;</hi> It is good to fear all things that we may fear nothing; that is, a prudent Caution will ſet us <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, out of the reach and power of what we fear. This Caution the <hi>Stoicks</hi> called, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>A prudent declining of any hurtful thing.</hi> And although to ſome this ſeems a diſtruſt of God's Providence; yet our Apoſtle aſſures us it may be an Act of Faith,<note place="margin">Heb. 11.23.</note> in the foregoing <hi>Chapter. By Faith</hi> Moſes <hi>when he was born, was hid three Months of his Parents,</hi> to eſcape the Fu<g ref="char:EOLhyphen"/>ry of <hi>Pbaraoh.</hi>
+               </p>
+               <p>We, who are at beſt but <hi>God's adopted Children,</hi> who are what we are merely by his <hi>Grace,</hi> and of our ſelves have no Sufficiency, either to do or ſuffer as we ought, may well pray with his <hi>natural and only begotten Son,</hi> that <hi>if it be poſſible, the bitter Cup may paſs from us.</hi>
+               </p>
+               <p>It is true, ſince God hath been often pleaſed to work that Good by <hi>Affliction,</hi> which other mere gentle Me<g ref="char:EOLhyphen"/>thods would not effect, we ought to pray rather that he ſhould puniſh us here, than ſuffer us to periſh hereafter. <hi>O Lord, correct me, but with Judgment,
+<pb n="10" facs="tcp:48108:11"/>not in thine Anger, leſt thou bring me to nothing.</hi>
+               </p>
+               <p>We are not obliged to expoſe our ſelves raſhly, as ſome well-meaning Sufferers did in the Primitive Times;<note place="margin">
+                     <hi>Senec.</hi> de be<g ref="char:EOLhyphen"/>neſic. <hi>l.</hi> 4. <hi>c.</hi> 22.</note> yet, as <hi>Seneca</hi> ſaid of his wiſe and vertuous Man, <hi>Placebit illi ignis per quam bona Fides collucebit;</hi> We need not fear thoſe Flames which will illuſtrate our Graces, nor ſhun that Fire which will conſume our droſs only.</p>
+               <p>In a word, as <hi>Affliction</hi> is an effect of <hi>God's Grace,</hi> and a means of improving our <hi>own Vertue,</hi> we may meet it with Deſire, and embrace it with Delight, but as it is an Evil to <hi>Nature,</hi> and an Expreſſion of <hi>God's Anger,</hi> we ought to avoid it when we fairly may; and pray with <hi>David:</hi>
+                  <note place="margin">Pſal. 38.1.</note> 
+                  <hi>O Lord rebuke me not in thy Wrath, neither chaſten me in thy hot Diſpleaſure.</hi> Nor,</p>
+               <p n="2">2. Are we to be inſenſible of it, when God in his wiſe Providence brings it upon us;<note place="margin">Seveca.</note> 
+                  <hi>Senſum enim Ho<g ref="char:EOLhyphen"/>minis nulla virtus exuit,</hi> ſaid the <hi>Heathen:</hi> and the <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> renders it thus; <hi>No Grace of God</hi> doth aboliſh the Sentiments of <hi>Nature;</hi> yea Stupidity or Stubborn<g ref="char:EOLhyphen"/>neſs under the Rod, or, as our <hi>Apoſtle</hi> calls it, the <hi>de<g ref="char:EOLhyphen"/>ſpiſing of the Chaſtnings of the Lord,</hi> proceeds not from the Perfection, but the Depravation of our Natures. It was for this ſenſleſsneſs that God rebuked the <hi>Iſra<g ref="char:EOLhyphen"/>elites;</hi>
+                  <note place="margin">Hoſ. 7.9.</note> 
+                  <hi>Strangers have devoured his Strength, and he know<g ref="char:EOLhyphen"/>eth it not;</hi> they are in a waſting Condition, but are not ſenſible of their Miſery. The <hi>Prophet Jeremy</hi> takes notice of the ſame evil diſpoſition of Mind; <hi>Thou haſt ſtricken them,</hi>
+                  <note place="margin">Jer. 5.3.</note> 
+                  <hi>but they have not ſorrowed; thou haſt conſumed them, but they have refuſed to receive Correction.</hi> They hardned their Hearts, and either contemned, or diſregarded <hi>God</hi>'s Judgments, than which there cannot be a higher Affront to his <hi>Majeſty.</hi>
+               </p>
+               <pb n="11" facs="tcp:48108:11"/>
+               <p>When <hi>Moſes</hi> was a <hi>Suitor</hi> for his Siſter <hi>Miriam,</hi> he received this Anſwer from God; <hi>Numb.</hi> 12.14. <hi>If her Father had ſpit in her Face, ſhould ſhe not be aſhamed ſeven days?</hi> As if he had ſaid, how much more ſhould ſhe be humbled, or aſhamed that I have teſtified my Diſpleaſure againſt her.</p>
+               <p>It ſeems to be a higher degree of Impiety to turn <hi>God's Judgments,</hi> than his <hi>Grace,</hi> into <hi>Wantonneſs;</hi>
+                  <note place="margin">Iſa. 26.11.</note> and therefore when the Hand of <hi>God</hi> is lifted up a<g ref="char:EOLhyphen"/>gainſt a Nation, or a <hi>Family,</hi> if they <hi>will not ſee,</hi> and be ſenſible of lighter Strokes, they <hi>ſhall ſee,</hi> as the <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> ſpeaks, and be afraid of more cutting Calami<g ref="char:EOLhyphen"/>ties; God will add Grief to their Sorrow, as he did unto <hi>Barachs,</hi> and make them faint under their reſtleſs Sighings and Complaints. But let this ſuffice to ſhew you negatively wherein this <hi>Subjection</hi> to the <hi>Chaſtnings</hi> of our <hi>heavenly Father</hi> doth not conſiſt.</p>
+               <p>I proceed now to ſhew you <hi>poſitively,</hi> that it doth conſiſt,</p>
+               <p n="1">1. <hi>In chooſing Affliction and Miſery of any kind rather than the leaſt Sin.</hi> Though we are not to ſeek the <hi>Croſs;</hi> yet we are not to go out of <hi>God</hi>'s way to ſhunit: we muſt be content to ſuffer Perſecution, rather than ceaſe to live <hi>godly</hi> and <hi>honeſtly,</hi> in this preſent World.</p>
+               <p>It was one of the groſs Errors of thoſe nominal <hi>Chriſtians,</hi> the <hi>Gnoſticks,</hi> that they might lawfully apo<g ref="char:EOLhyphen"/>ſtatize from the Truth in the time of danger, and com<g ref="char:EOLhyphen"/>ply with the <hi>Jews</hi> for fear of Perſecution; for we muſt chearfully part with our Peace, our Eaſe, our Eſtates, yea our very Lives, rather than protect and ſecure them by any unlawful Practices, by any ſinful <hi>Compli<g ref="char:EOLhyphen"/>ances,</hi> or <hi>Oppoſitions,</hi> either denying the <hi>Truths,</hi> or re<g ref="char:EOLhyphen"/>ſiſting the <hi>Ordinance of God,</hi> either <hi>deſerting</hi> our Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="12" facs="tcp:48108:12"/>or <hi>fighting</hi> in the defence of it under any falſe Colours, or any lawleſs Conduct. We muſt ſuffer all that can befall us rather than offend on either hand. <hi>For whoſoever ſhall deny me before Men,</hi>
+                  <note place="margin">Mark 10.33.</note> 
+                  <hi>him will I alſo deny before my Father which is in Heaven,</hi> ſaith our Bleſſed Saviour.<note place="margin">Rom. 3.2.</note> And, <hi>Whoſoever reſiſteth the Power,</hi> ſaith our great Apoſtle, <hi>reſiſteth the Ordinance of God; and they that reſiſt, ſhall receive to themſelves Damnation.</hi> We may underſtand the Sin of Rebellion, and the Chriſtian Doctrine of Paſſive Obedience, much better from this Text of Scripture, than from the Writings of <hi>Bucchanan</hi> in the days of our Fathers, of <hi>J. Goodwin</hi> ſince, and of the late Author of the Life of <hi>Julian:</hi> for here we are plainly taught that <hi>Diſloyalty</hi> to our <hi>King,</hi> is alto<g ref="char:EOLhyphen"/>gether inconſiſtent with <hi>Subjection</hi> to our <hi>God;</hi> that the <hi>Powers of Earth, are the Ordinance of Heaven;</hi> and Diſobedience to them, at leaſt actual Oppoſition againſt them, will certainly expoſe us to the Puniſhments of Hell: Wherefore it hath been the conſtant Practice of all good Chriſtians, where they could not eſcape the effects of their Prince's Diſpleaſure either by Obedience, or by Flight, then to bear them with Submiſſion, but never to repel, or prevent them by Force or Re<g ref="char:EOLhyphen"/>ſiſtance.</p>
+               <p>Thus did the <hi>Primitive Chriſtians</hi> under <hi>Heathen</hi> and <hi>Heretical</hi> Emperours: Thus did the <hi>Waldenſes</hi> un<g ref="char:EOLhyphen"/>der <hi>Popiſh</hi> Perſecutors; our Grandfathers under the bloody, fiery Reign of Queen <hi>Mary.</hi> Thus do our diſtreſſed Brethren of <hi>France</hi> at this preſent time, and thus muſt we all do, if God ſee beſt to put us upon the ſame Trials.</p>
+               <p>The <hi>Popiſh Prieſts</hi> and <hi>Jeſuits</hi> have found out as ma<g ref="char:EOLhyphen"/>ny diſhoneſt Arts of ſaving themſelves from juſt and
+<pb n="13" facs="tcp:48108:12"/>legal Puniſhments, as of plotting Evil and Miſchief a<g ref="char:EOLhyphen"/>gainſt others. I ſhall give you one remarkable Inſtance, and that is their Practice of <hi>Equivocation</hi> and <hi>mental Reſervation,</hi> uſing words of a double ſenſe to cloud and conceal the Truth, and reſerving ſome words in their Mind wholly to alter the ſenſe of what they utter. As for Example, If you ask a <hi>Prieſt,</hi> Art thou indeed a <hi>Prieſt;</hi> he will confidently and readily deny himſelf, and ſay, I am no <hi>Prieſt,</hi> and if need be ſwear it alſo; reſerving in his Mind, of <hi>Baal,</hi> or of <hi>Apollo;</hi> which Speech and Reſervation put together, make up an in<g ref="char:EOLhyphen"/>tire Sentence, <hi>I am no Priest of Baal,</hi> or of <hi>Apollo.</hi> Again, they will endeavour to cover Treaſon by ſay<g ref="char:EOLhyphen"/>ing they had no deſign againſt the <hi>Life</hi> of the <hi>King;</hi> reſerving in their Minds, of <hi>France.</hi> Such Lies, under other names, do they make their Refuge in times of Danger.</p>
+               <p>If our bleſſed <hi>Saviour,</hi> or the <hi>Apoſtles</hi> and <hi>Martyrs</hi> of <hi>Chriſt,</hi> had known and approved this Doctrine, how eaſily might they have eſcaped thoſe Troubles, Tor<g ref="char:EOLhyphen"/>ments, and Deaths which they endured? When our Lord was demanded, Whether he was the <hi>Chriſt?</hi> how readily might he have anſwered, I am not, with this Refervation, ſuch as ye look for? and his <hi>Apoſtles</hi> and <hi>Martyrs</hi> when they were queſtioned, Whether they were <hi>Chriſtians?</hi> how eafily might they have replied, we are not, reſerving only in their Minds, ſuch as ye ſlander us to be? but they durſt not practiſe theſe Shifts: nor muſt we ſhun <hi>Miſery</hi> by running into <hi>Sin, chuſing Afflictions with the People of God,</hi> rather than all the Pleaſures and Proſperity of the wicked. But,</p>
+               <p n="2">2. <hi>This Subjection conſiſts in bearing Afflictions with Patience, not mourning immoderately nor murmuring</hi> at all.</p>
+               <pb n="14" facs="tcp:48108:13"/>
+               <p n="1">1. Not <hi>mourning immoderately.</hi> To be inſenſible of Evils, is not to be Men; to be impatient under them, is not to be Chriſtians.</p>
+               <q>Lugere amicos luctu moderato decet, <hi>&amp;c.</hi>
+               </q>
+               <p>It was good and pious Counſel that of <hi>Ben-Sirach; Let Tears fall upon the dead,</hi>
+                  <note place="margin">Ecclus. 38.16, 17.</note> 
+                  <hi>and</hi> uſe Lamentations as <hi>he is worthy. Jeſus wept</hi> over his Friend <hi>Lazarus.</hi> The Church lamented the Death of St. <hi>Stephen,</hi> and the <hi>Apoſtle Paul</hi> the dangerous ſickneſs of his <hi>Epaphro<g ref="char:EOLhyphen"/>ditus.</hi>
+               </p>
+               <p>To laugh or look chearfully at a Funeral, yea, not to drop ſome Tears upon the Hearſe of our deceaſed Friend, is a Breach of our <hi>Chriſtian</hi> Behaviour; yet there muſt be a mean in this, <hi>Lachrymandum eſt, ſed non plorandum,</hi>
+                  <note place="margin">Sen. Ep. <hi>63.</hi>
+                  </note> we muſt weep under our <hi>Father's Rod,</hi> but not complain of his <hi>Severity,</hi> which is a fur<g ref="char:EOLhyphen"/>ther Inſtance of our Patience and <hi>Submiſſion</hi> to God's Will. For,</p>
+               <p n="2">2. <hi>We muſt not murmur at all: I was dumb,</hi> ſaid <hi>David,</hi>
+                  <note place="margin">Pſal. 39.9.</note> 
+                  <hi>I opened not my Mouth, becauſe thou didſt it:</hi> Whatever the voluntary, or unwilling Inſtruments of my Trouble may be, I ſee thy Finger in their Hand, I acknowledg thy Juſtice, and adore thy Wiſdom and Goodneſs in all that I ſuffer, either from the Unkind<g ref="char:EOLhyphen"/>neſs, or Miſtakes of Men; and therefore I will not repine or complain ſo much as in a word of thy deal<g ref="char:EOLhyphen"/>ings with me;<note place="margin">1 Sam. 3.18.</note> 
+                  <hi>Thou didſt it, and therefore I opened not my Mouth;</hi> and there was as much Submiſſion in <hi>Eli's</hi> and <hi>Job</hi>'s Speeches, as in <hi>David</hi>'s Silence; <hi>It is the Lord,</hi>
+                  <note place="margin">Job 1.21.</note> 
+                  <hi>let him do whatſoever he will,</hi> ſaid <hi>Eli,</hi> after he received the ſad Prophecy of his Family's Deſtruction.
+<pb n="15" facs="tcp:48108:13"/>
+                  <hi>The Lord gave, and the Lord hath taken away,</hi>
+                  <note place="margin">Job 2.10.</note> 
+                  <hi>bleſſed be the Name of the Lord,</hi> ſaid <hi>Job.</hi>
+               </p>
+               <p>He diſcovers more of this excellent Spirit, not only in bearing with his Wife's Frowardneſs, but in his meek Expoſtulation with her, and declaring the Equi<g ref="char:EOLhyphen"/>ty of God's dealings with them both, in ſo general a Calamity: <hi>Shall we receive Good at the hand of God, and ſhall we not receive Evil?</hi> To apply this in a word to our ſelves; It is the ſame bleſſed Hand that diſtri<g ref="char:EOLhyphen"/>butes, and ſmites, and we ought to adore it with equal Reverence and Affection, whether it be opened wide in Bounty, or contracted cloſe in Severity.</p>
+               <p>Beloved, we have had much more Experience of <hi>God's Goodneſs</hi> towards us in giving us Proſperity, and a flow of Bleſſings, than we have had of his <hi>Anger,</hi> in taking from us our <hi>Comforts,</hi> and adding to our Mi<g ref="char:EOLhyphen"/>ſeries. <hi>And ſhall we receive Good at the Hand of God,</hi> (and ſo much Good as we have done) <hi>and ſhall we not receive Evil?</hi> Shall we not patiently bear a little Affliction? not repining at the ſharpneſs of God's Diſcipline, but meekly kiſſing the Rod that ſtrikes us, humbly acknowledging the Equity of our <hi>Father</hi>'s ſeve<g ref="char:EOLhyphen"/>reſt <hi>Chaſtnings,</hi> that all <hi>his Ways are equal,</hi> and that in <hi>Righteouſneſs</hi> he doth <hi>afflict</hi> us, that <hi>our own Ini quities have wrought Evil to us,</hi> and that the Moths, which fret and conſumeo ur Garments, have their Being and Nouriſh<g ref="char:EOLhyphen"/>ment from them: which is another good Evidence of our Submiſſion to the Divine Diſpoſals and Puniſhments.</p>
+               <p n="3">3. Our Subjection in ſome Caſes muſt ſhew it ſelf, not only by a Reſignation, and yielding up of our <hi>Wills</hi> to the <hi>Will of God,</hi> and by an owning all Mani<g ref="char:EOLhyphen"/>feſtations of his <hi>Juſtice,</hi> but by a Submiſſion of our <hi>
+                     <g ref="char:V">Ʋ</g>nderſtandings</hi> to his <hi>infinite Wiſdom,</hi> and reſting
+<pb n="16" facs="tcp:48108:14"/>ſatisfied in the moſt myſterious and hidden ways of his <hi>Providence,</hi> ſuch as his diſtreſſing the Vertuous, and proſpering the Ungodly.</p>
+               <p>There is a good reaſon why the provident Father, who would make a laſting Conſerve of the Roſes and Violets, ſhould cut, mangle and bruiſe them, though the ſilly Child ſtand amazed at this Work; and, as the noble <hi>Mornay</hi> expreſſes it, <hi>Floribus illis illachrymatur &amp; ciulat,</hi> weeps over thoſe Flowers, becauſe he would have them preſerved for Poeſies and Garlands. In like manner the Dealings and Proceedings of <hi>Almighty God,</hi> even thoſe which are moſt intricate and involved, want not their reaſonable Conſiderations to move and reſt upon. Though we who are Children in Under<g ref="char:EOLhyphen"/>ſtanding cannot find them out, yet we know ſo much of our heavenly Father, as to be aſſured that <hi>his Judg<g ref="char:EOLhyphen"/>ments are according to Truth, and that there is no <g ref="char:V">Ʋ</g>nrigh<g ref="char:EOLhyphen"/>teouſneſs in him.</hi>
+               </p>
+               <p>And therefore, that we are in Duty obliged to adore and ſubmit to that hidden Equity and Wiſdom of his Proceedings which we cannot comprehend, and by this humbling of our Reaſon, this confining of our <hi>Spirits</hi> within their proper Sphere of Knowledg, we give a farther Teſtimony of our <hi>Subjection</hi> to the <hi>Father</hi> of them, which yet is compleated.</p>
+               <p n="4">4. By Amendment of Life, by a careful avoiding and Reformation of theſe Faults, which were moſt like to move our <hi>Father</hi>'s Diſpleaſure. This is it which the Prophet <hi>Iſaiah</hi> expreſſeth <hi>by a turning unto him that ſmiteth us;</hi>
+                  <note place="margin">Iſa. 9.13.</note> this is it which the Prophet <hi>Micah</hi> intends, <hi>by hearing the Rod,</hi>
+                  <note place="margin">Micah 6.9.</note> 
+                  <hi>and him who hath appointed it:</hi> Eve<g ref="char:EOLhyphen"/>ry Rod of God hath a Voice, and comes to reprove us for ſome Sin, or to inſtruct us in ſome Duty, and
+<pb n="17" facs="tcp:48108:14" rendition="simple:additions"/>our <hi>Subjection</hi> to it conſiſts not only in a patient bear<g ref="char:EOLhyphen"/>ing of its ſmart, but in a towardly learning its Leſſons; learning to be leſs ſenſual, and more heavenly-minded; leſs dejected with Adverſity, and more humble in Pro<g ref="char:EOLhyphen"/>ſperity; in a word, more holy in all manner of Conver<g ref="char:EOLhyphen"/>ſation: That though we may ſay with <hi>David, Before we were afflicted we went aſtray;</hi> we may add with him alſo, but <hi>now have we kept thy Word:</hi> making it appear, that <hi>God indeed hath chaſtned us for our Profit,</hi>
+                  <note place="margin">Pſal. 119.67.</note> 
+                  <hi>that we might be Partakers of his Holineſs.</hi>
+               </p>
+               <p>This is that <hi>worthy Fruit of Repentance</hi> which <hi>our</hi> bleſſed Saviour, in the third of St. <hi>Matthew,</hi> would have us <hi>to bring forth:</hi> This is the Work which God expects from us when his Rod is ſhaken over us, or laid upon us in any ſore Calamity publick or perſonal, even to <hi>conſider our Ways,</hi> that is, our Omiſſions, our Actions, our Paſſions, what we have done, and how we have ſuffered, <hi>and to turn our feet to his Teſtimonies, as David</hi> ſpeaks, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Puniſhments, ſaith <hi>Damaſcen,</hi> are the forced Off<g ref="char:EOLhyphen"/>ſpring of willing Faults.</p>
+               <p>If we had the true conceit of our Duty towards God imprinted upon our Hearts, and would we but add thereunto diligent Obſervation of our daily and hourly Neglects thereof; every particular <hi>Croſs</hi> would direct us to ſome particular <hi>Sin,</hi> from which the <hi>Lord</hi> in Mercy would purge us.</p>
+               <p>And we then are <hi>ſubject</hi> and bear the <hi>Affliction</hi> as we ought to do; if by ſearching our Hearts, examining our Ways, and conſidering the nature of it, we endea<g ref="char:EOLhyphen"/>vour to diſcover, and reform that particular Vice for which <hi>God</hi> ſeems to rebuke and puniſh us.</p>
+               <p>It was a mark of Incorrigibleneſs and Ignominy in
+<pb n="18" facs="tcp:48108:15"/>
+                  <hi>King</hi> Ahaz,<note place="margin">2 Chron. 28.22. Jer. 5.3.</note> 
+                  <hi>that in the time of his Diſtreſs he ſinned more and more;</hi> and this the Prophet <hi>Jeremy</hi> laments as a greater <hi>Miſery</hi> then the ſoreſt <hi>Affliction</hi> in that People; <hi>Thou haſt ſmitten them,</hi>
+                  <note place="margin">Pſal. 107.3.</note> 
+                  <hi>but they have not grieved; thou haſt conſumed them, but they have refuſed to receive Correction; they have made their Faces harder than a Rock, they have refuſed to return.</hi>
+               </p>
+               <p>
+                  <hi>Whoſo is wiſe,</hi>
+                  <note place="margin">Pſal. 94 12.</note> 
+                  <hi>and will obſerve theſe things,</hi> whoſo will take warning by theſe Directions, and theſe Ex<g ref="char:EOLhyphen"/>amples, to repent of, and reform the Evils and Errors of their Lives; <hi>They ſhall underſtand the loving-Kind<g ref="char:EOLhyphen"/>neſs of the Lord,</hi> even under the <hi>ſhew</hi> of his Diſpleaſure. That, as <hi>Tertullian ſpeaks, Foelix cui Deus dignatur iraſci;</hi> or rather in <hi>David</hi>'s Language, <hi>Bleſſed is the Man whom thou chaſtnest, O Lord, and teachest him in thy Law.</hi> But of this more hereafter.</p>
+               <p>I have ſaid as much as the time, and the deſign of my Diſcourſe would permit, touching the nature <hi>of our Subjection to God's Chaſtnings.</hi> I go forward to ſhew more fully, (for I have done it in part already) that we ought to be ſo ſubject, and why we ought to beſo.</p>
+               <p>And, becauſe this is a large Field, I ſhall confine my ſelf both for Proof and Reaſons to the words of my <hi>Text,</hi> and the foregoing <hi>Verſes</hi> of this <hi>Chapter;</hi> and I doubt not but it will plainly appear that every <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> every <hi>adopted</hi> Child of <hi>God,</hi> as well as the <hi>proper Son, our bleſſed Saviour, ought to learn Obedience by the things which he ſuffers;</hi> and to ſhew his Obedience as much, if not more in that, than any other Inſtance, as he did.</p>
+               <p>It is the deſign of the <hi>Holy Ghost</hi> in a great part of this Chapter and that foregoing, to eſtabliſh this Doctrine, and commend it to our Practice. I ſhall only ſuggeſt
+<pb n="19" facs="tcp:48108:15"/>this to you for a further Confirmation and Commen<g ref="char:EOLhyphen"/>dation thereof, <hi>viz.</hi> That the <hi>Chaſtnings</hi> and <hi>Afflictions,</hi> which the <hi>Apoſtle</hi> here hath reſpect unto, and which are to be born with ſo much Contentment, and <hi>Sub<g ref="char:EOLhyphen"/>miſſion,</hi> were of a peculiar and extraordinary nature, ſuch as <hi>God</hi> hath never yet tried any of us withal, Per<g ref="char:EOLhyphen"/>ſecutions and cruel Uſages, the loſs of Goods and good Name, as we may infer from ſome Paſſages in the tenth <hi>Chapter</hi> of this <hi>Epiſtle,</hi> as <hi>Cruel Mockings,</hi> no doubt, <hi>Scourgings, Bonds, Impriſonments,</hi> as thoſe we read of in the latter end of the <hi>eleventh Chapter,</hi> and all for <hi>Righteouſneſs ſake,</hi> for believing in <hi>Jeſus,</hi> and doing the Will of <hi>God:</hi> Perſecutions only ſhort, if ſhort at all, of thoſe in the following Ages, when Children were ſnatched out of the Arms of their pittiful Parents, their Brains daſhed out againſt the Stones before their Faces, their beſt Friends buried in Fires, or baniſhed into ſtrange places.</p>
+               <p>Such as theſe were the <hi>Primitive Perſecutions,</hi> ſuch as theſe were the Loſſes, Trials, Chaſtnings, the Apoſtle endeavours to fortify his <hi>Hebrews</hi> againſt, and to ſup<g ref="char:EOLhyphen"/>port them under: And by how much the leſs and more gentle our Sufferings are, ſo much the more pati<g ref="char:EOLhyphen"/>ently and ſubmiſſively ought we to bear them. They perhaps might have been better allowed to <hi>weep</hi> Blood, than we to <hi>ſhed Tears,</hi> in regard of the greater ſmart and preſſure of their Afflictions; and therefore, I ſhall hope that the Doctrine of the <hi>Text,</hi> though ap<g ref="char:EOLhyphen"/>plied more particularly to their Caſes, will have an e<g ref="char:EOLhyphen"/>qual, if not a more effectual Influence upon ours, to ad<g ref="char:EOLhyphen"/>miniſter Strength, Courage and Comfort to us, in the more ordinary Calamities of our Lives, the milder <hi>Cor<g ref="char:EOLhyphen"/>rections of the Father of Spirits.</hi>
+               </p>
+               <pb n="20" facs="tcp:48108:16"/>
+               <p>And now we come to conſider the Reaſons of this our Subjection.</p>
+               <p n="1">1. <hi>The firſt of which is derived from the Equality of Compariſon in my Text,</hi> between our <hi>natural Parents and our ſpiritual Father:</hi> If we are to reverence and ſubmit to the one as ſuch, we are to do ſo to both, and muſt be <hi>in Subjection unto the Father of Spirits,</hi> becauſe he is our <hi>Father.</hi>
+               </p>
+               <p>It is an Argument which God himſelf uſeth by his Prophet <hi>Malachy,</hi>
+                  <note place="margin">Mal. 1.6.</note> 
+                  <hi>A Son honoureth his Father: if I then be a Father, where's mine Honour? where's your child-like Deportment?</hi> your chearful Submiſſion to my Will? You know,</p>
+               <list>
+                  <item>1. <hi>That a Father hath right and power to give Laws to, and inflict Penalties on his own.</hi>
+                  </item>
+                  <item>2. <hi>He hath Kindneſs and Bowels to mitigate the Rigor of Law,</hi> and to temper his Diſcipline according to the different Capacities and Infirmities of his Children: When the Rod is in a <hi>Father</hi>'s hand, Love and Com<g ref="char:EOLhyphen"/>paſſion have the Management of every Blow, and it is ſaid of <hi>God,</hi>
+                     <note place="margin">Pſal. 103.13.</note> 
+                     <hi>that he pitieth us, as a Father pitieth his Son that ſerveth him.</hi>
+                  </item>
+               </list>
+               <p>And as a tender <hi>Father</hi> pitieth the ſick <hi>Child</hi> moſt, ſo doth <hi>He</hi> moſt commiſerate us in our Diſtreſſes. <hi>He</hi> ſo <hi>pitieth</hi> us as to ſuccour us in our Troubles, and in his due time, when it is moſt for his Glory and our own Good, to deliver us out of them; according to that gracious Promiſe,<note place="margin">Pſal 91.15. Pſal. 34.19.</note> 
+                  <hi>I will be with thee in Trouble to deliver thee: Many are the Afflictions of the Righteous, but God delivereth himout of them all.</hi> This me-thinks ſhould perſwade us to a patient bearing of <hi>Afflictions,</hi> becauſe they are <hi>the Chaſtnings of a Father.</hi>
+               </p>
+               <pb n="21" facs="tcp:48108:16"/>
+               <p>The Hand of an <hi>Enemy</hi> poiſons the Wound, but the Hand of a <hi>Father</hi> when it ſtrikes, drops Balſam; his very Rods are bound up in Silk and Softneſs, and he only wounds that he may heal; he only launces and cuts, to let out that Corruption which will not be carri<g ref="char:EOLhyphen"/>ed off by any milder Method. But,</p>
+               <p n="3">3. It is our <hi>Submiſſion</hi> to his <hi>Corrections</hi> that maketh it appear that he is indeed our <hi>Father,</hi> and we his Children; our <hi>Subjection</hi> warrants and voucheth our Sonſhip. Every Hypocrite will fawn upon <hi>God</hi> in Proſperity, ſerve him when he can ſerve himſelf on him. It is the Property of the true <hi>Chriſtian</hi> to adhere to him when he ſuffers for ſo doing, and to truſt in him as <hi>Job</hi> did, <hi>not only when he maketh an Hedg about us,</hi> but when he layeth us waſte, when he ſpoils us of our Goods, our Friends, our <hi>Children,</hi> our Health, yea our own Lives.</p>
+               <p>For, as the Valour of a <hi>Souldier</hi> is beſt ſeen in the Battel, and the Skill of a <hi>Pilot</hi> in a Tempeſt;<note place="margin">Gubernato<g ref="char:EOLhyphen"/>rem in tempe<g ref="char:EOLhyphen"/>ſtate, in acie militem intel<g ref="char:EOLhyphen"/>ligas. <hi>Sen.</hi> de provident.</note> ſo the Fortitude and Patience of a Chriſtian is beſt deſcerned in Tribulation.</p>
+               <p>Until the <hi>Storms</hi> and <hi>Winds</hi> came, <hi>the Houſe built up<g ref="char:EOLhyphen"/>on the Sand,</hi> ſeemed to ſtand as firm and ſecure as <hi>that upon the Rock:</hi> and give me leave by way of further Illuſtration, to tell you,<note place="margin">Geranium noctu olens, <hi>Lichuis</hi> nocti<g ref="char:EOLhyphen"/>flora.</note> That <hi>Chriſtian</hi> Virtue reſem<g ref="char:EOLhyphen"/>bleth two remarkable Plants, which I have ſometimes taken ſpecial notice of, one of which caſts a moſt fra<g ref="char:EOLhyphen"/>grant ſtrong Perfume in the Night; and the other alſo (of no leſs contrary Complexion to its fellows, as if it re<g ref="char:EOLhyphen"/>joyced at what they mourn for, the Sun's ſetting) is ne<g ref="char:EOLhyphen"/>ver ſeen to blow and ſhew its Flowers before the Eve<g ref="char:EOLhyphen"/>ning. I am ſure the true <hi>Chriſtian's</hi> Graces are moſt illuſtrious and conſpicuous in the dark; yea, his <hi>Light
+<pb n="22" facs="tcp:48108:17"/>ariſeth out of Darkneſs;</hi> and when the Sun of his out<g ref="char:EOLhyphen"/>ward Comforts is eclipſed or ſet, his inward Worth and Glory breaks forth as the <hi>Noon-day.</hi>
+               </p>
+               <p>And ſuitable to our purpoſe,<note place="margin">
+                     <hi>Lib.</hi> de Pro<g ref="char:EOLhyphen"/>videntia pro<g ref="char:EOLhyphen"/>ſpera in ple<g ref="char:EOLhyphen"/>bem ac vilia ingenia deve<g ref="char:EOLhyphen"/>niunt; at Ca<g ref="char:EOLhyphen"/>lamitates Ter<g ref="char:EOLhyphen"/>roreſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> morta<g ref="char:EOLhyphen"/>lium ſub ju<g ref="char:EOLhyphen"/>gum mittere, proprium magni viri eſt. <hi>Ibid</hi> Sen. Ep. 13.</note> is what the Wiſdom of that ſage <hi>Heathen, Seneca,</hi> obſerved, <hi>Magnum exem<g ref="char:EOLhyphen"/>plum niſi mala fortuna non invenit,</hi> that none have been ſo eminently and exemplarily <hi>virtuous,</hi> as thoſe that have been ſignally <hi>unfortunate:</hi> and he inſtanceth in <hi>So<g ref="char:EOLhyphen"/>crates,</hi> and declares that the Trial of his Conſtancy and Equanimity by a violent ſuffering of Death, made him a truly great Man: <hi>Circuta magnum Socratem fecit.</hi>
+               </p>
+               <p>Affliction indeed is no certain ſign of <hi>God</hi>'s Favour and <hi>paternal Love;</hi> but the willing Suſception, and the chearful bearing of the <hi>Croſs,</hi> is the expreſs Condition and the peculiar Character of our <hi>Chriſtianity,</hi> of our ſpiritual <hi>Sonſhip</hi> or <hi>new Birth unto Righteouſneſs.</hi> And therefore before thoſe Errours and Corruptions, which we properly call <hi>Popery,</hi> had invaded the <hi>Church,</hi> the Figure of the <hi>Croſs</hi> was aſſumed for the Badg of their Profeſſion, and the Enſign of their Spiritual Warfare, the Pledg of their conſtant adherence to a <hi>crucified Saviour,</hi> as it is uſed by us at this day in the Office of Baptiſm. Hence it is that many good Men have petiti<g ref="char:EOLhyphen"/>oned for <hi>Croſſes,</hi> as thinking them the neceſſary Atteſta<g ref="char:EOLhyphen"/>tions of their <hi>Sonſhip,</hi> and means of Aſſimilation unto their <hi>Elder Brother.</hi>
+               </p>
+               <p>But we are under a ſtronger Obligation, ſtill to be in <hi>Subjection</hi> to our <hi>Father which is in Heaven;</hi> becauſe,</p>
+               <p n="4">4. He is not only the Father of our Fleſh (for in and by him <hi>we live, move and have our</hi> natural <hi>Being,</hi> and from his Bleſſing we derive all the Comforts of it) but he is the <hi>Father of our Spirits too,</hi> and that by a more im<g ref="char:EOLhyphen"/>mediate Generation: Upon which account he hath,</p>
+               <pb n="23" facs="tcp:48108:17"/>
+               <list>
+                  <item>1. <hi>A more abſolute Dominion over us.</hi> And,</item>
+                  <item>2. <hi>An infinitely more perfect Love and Kindneſs</hi> for us <hi>than our natural Parents have.</hi> Which brings me to my thrid and laſt Point, <hi>viz.</hi>
+                  </item>
+               </list>
+               <p n="3">III. <hi>That we ought to be more ſubject unto him, than to them. How much rather ſhall we be in Subjection unto the Father of Spirits, and live?</hi>
+               </p>
+               <p>How much rather ſhall we be in Subjection to him, 1. In regard of the Excellency of his Nature, and the Abſoluteneſs of his Dominion. 2. In regard of the Excellency of his Nature, which is purely ſpiritual, no<g ref="char:EOLhyphen"/>thing of Fleſh or Frailty in him; who is not only a <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> but the <hi>Father of Spirits,</hi> of Angels, and the Souls of Men, the moſt noble and refined Beings; and therefore muſt needs have an infinite Fulneſs (if I may ſo ex<g ref="char:EOLhyphen"/>preſs it) and Perfection of <hi>Spirit</hi> in himſelf, infinite <hi>Power, Wiſdom, Juſtice</hi> and <hi>Mercy;</hi> and therefore the higheſt degrees of <hi>Reverence,</hi> of Love and Fear, are due to his <hi>Supremacy</hi> of <hi>Nature,</hi> and, as a conſequent of this, to his right of <hi>Soveraignty,</hi> and rule over us.<note place="margin">Job 25.2. Mal. 1.6.</note> 
+                  <hi>Dominion and Fear are with thee:</hi> Fear, as the reſult and tribute of Dominion. <hi>If I be a Maſter, where is my Fear?</hi> Shall we not pay that Homage to the <hi>Father</hi> of the whole <hi>Creation,</hi> to the <hi>Soveraign</hi> Maſter of all the World, which the Subjects of Families and Kingdoms upon Earth yield willingly to their reſpective <hi>Lords?</hi> Nay, ſhall not the degrees of our Obedience and Submiſſion bear ſome Proportion to the Pre-eminency of the Di<g ref="char:EOLhyphen"/>vine Power and Authority?</p>
+               <p>When the Queſtion is put, Whom we ſhould rather obey, or be in Subjection to, the <hi>Fathers of our Fleſh,</hi>
+                  <note place="margin">Pſal. 76.12.</note> 
+                  <hi>the Father of our Country, or the Father of our Spirits, who
+<pb n="24" facs="tcp:48108:18"/>cuts off the Spirit of Princes?</hi> St. <hi>Auſtin</hi>'s Rule is a ſafe Direction, <hi>Non debet minor Poteſtas iraſci, ſi major prae<g ref="char:EOLhyphen"/>lata ſit,</hi> and we muſt ſtand moſt in awe of him that hath the greateſt Power and Right of Rule. And that God hath ſo, will eaſily appear:</p>
+               <p n="1">1. <hi>Becauſe his Dominion is Original,</hi> in and from himſelf; all other is derivative, dependent and ſubor<g ref="char:EOLhyphen"/>dinate. Our <hi>Parents</hi> are his <hi>Children,</hi> and our <hi>King</hi> his <hi>Subject; Reges in ipſos imperium eſt Jovis;</hi> or, in the <hi>Pſalmiſt</hi> Phraſe, he is <hi>terrible to the Kings of the Earth.</hi>
+               </p>
+               <p n="2">2. <hi>His Dominion is Abſolute,</hi> no <hi>mixed,</hi> no <hi>limited Monarchy.</hi> Though we have a ſaying, that the <hi>King</hi> rules us, and the <hi>Law</hi> guides him, yet the <hi>Supream Lord</hi> is not under any controul, or any conduct either, but that of his own infinite <hi>Wiſdom</hi> and <hi>Goodneſs;</hi> he doth both in <hi>Heaven</hi> and <hi>Earth,</hi>
+                  <note place="margin">Pſal. 99.5.</note> 
+                  <hi>whatſoever pleaſeth him<g ref="char:EOLhyphen"/>ſelf.</hi> and ought to pleaſe his Subjects too: But whether it pleaſeth us or no, <hi>God</hi> will aſſert his own <hi>Domi<g ref="char:EOLhyphen"/>nion; The Lord will ſtill be King, be the People never ſo impatient.</hi> It will therefore concern us as well in point of Prudence, as of Duty, never to rebel againſt that Power which we cannot ſubdue, but with an humble dereliction of our own Wills, to acquieſce in his; or, in the <hi>Pſalmiſt</hi>'s Phraſe,<note place="margin">Pſal. 46.10.</note> to be <hi>ſtill, and know that he is God,</hi> and will maintain his <hi>Prerogative.</hi>
+               </p>
+               <p n="3">3. <hi>His Dominion is univerſal,</hi> and he reigns over all, he is <hi>Lord</hi> of the whole Creation, the <hi>great</hi> and <hi>little</hi> World, and of each part of Man, of the Soul and <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> which is his <hi>Creature,</hi> or rather <hi>his Child,</hi> by a peculiar Participation of his Nature.</p>
+               <p n="1">1. He gives Laws to our Thoughts, Deſires, and Affections, which are exempt from Human Juriſ<g ref="char:EOLhyphen"/>diction,
+<pb n="25" facs="tcp:48108:18"/>and can puniſh their ſecret Diſorders. For,</p>
+               <p n="2">2. Such is his <hi>Soveraignty</hi> over the <hi>Spirit</hi> of Man, that he can break into the Soul's laſt Reſort, and ſtrongeſt Hold, where no other Enemy can enter, and wound where the longeſt Sword of Tyrannical Perſecutors cannot reach: He can by an inviſible Dart, ſecret Ar<g ref="char:EOLhyphen"/>row of his Indignation, ſhoot into the very Heart, and give a <hi>Wound</hi> in the <hi>Spirit which none can bear;</hi> He can in an inſtant move that ſence of Guilt which will attach and arreſt the Conſcience, and make Deſolation a there, where our chief Support and Comforts dwell. The moſt enraged, and malicious Perſecutors can only kill that which would otherwiſe die of it ſelf: But <hi>there is no Man hath Power over the Spirit,</hi> ſaith <hi>Solomon.</hi>
+                  <note place="margin">Eccleſ. 8.8.</note> 
+                  <hi>God</hi> alone is thus mighty in Strength, and who hath hard<g ref="char:EOLhyphen"/>ned his Heart (ſaith <hi>Job</hi>) who hath ſtood out,<note place="margin">Job 9.4.</note> and rebelled againſt him, <hi>and proſpered?</hi>
+               </p>
+               <p n="3">3. <hi>He hath the Power of Life and Death, which the Fathers of our Fleſh have not.</hi> The Father's Power conſiſteth moſt eſpecially in theſe two Points, in pu<g ref="char:EOLhyphen"/>niſhing and chaſtizing the Children for their ſmaller Faults, and diſinheriting them at laſt if they prove in<g ref="char:EOLhyphen"/>corrigible: but the <hi>Father of Spirits</hi> hath <hi>Poteſtatem vi<g ref="char:EOLhyphen"/>tae &amp; necis,</hi> the Power of Life and Death over all his Children, <hi>He bringeth to the Gates of Hell,</hi>
+                  <note place="margin">VViſd. 16.13.</note> 
+                  <hi>and he bringeth back again.</hi>
+               </p>
+               <p>And this further obligeth us to a patient bearing of his Will in our own Sickneſs, our own darkeſt Walks in the <hi>Valley of the Shadow of Death,</hi> and alſo in the laſt departure of our deareſt Friends and Relatives, be<g ref="char:EOLhyphen"/>cauſe God is the <hi>Father of Spirits,</hi> and takes no more from us, than what he firſt gave us.</p>
+               <pb n="26" facs="tcp:48108:19"/>
+               <p>And hereby we do but attain to ſome degrees of <hi>Abraham's Faith</hi> and Patience, who was not more joy<g ref="char:EOLhyphen"/>ful at the Birth and Growth of his only Son, than ready to give him again to <hi>God</hi> in his beſt Age.</p>
+               <p n="4">4. <hi>He hath the Power of the ſecond, as well as</hi> of the firſt Death;<note place="margin">Luke 12.15.</note> or, as our <hi>bleſſed Saviour</hi> expreſſeth it, when <hi>he hath killed, hath Power to caſt into Hell. Men after they have killed the Body,</hi> have no more that they can do, and our <hi>Chriſtian</hi> Faith and Hope will bear us up under all the Threatnings, and Strokes of their Cruelty, and enable us to ſay with Comfort, what the poor <hi>Lepers</hi> ſpake in diſpair. <hi>If they kill us, we ſhall but die;</hi> but <hi>who knows the Power of thine Anger,</hi>
+                  <note place="margin">2 Kings 7.4.</note> ſaith <hi>David?</hi> who knows what degrees of Torment the Wrath of an in<g ref="char:EOLhyphen"/>cenſed God can kindle after Death? Temporal Judg<g ref="char:EOLhyphen"/>ments are to the wicked but the beginning of Sorrows, or in St. <hi>Gregory Nazianzen</hi>'s Expreſſion, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Smoak of the <hi>Lord</hi>
+'s Anger in Hell are the Flames, and the unquenchable Fire of it.</p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>Take the Aſhes of the Furnace,</hi>
+                     <note place="margin">Exod. 9.8.</note> ſaith God to <hi>Moſes, and caſt them into the Air, and they ſhall be Sores</hi> and Plagues upon them: ſuch are all temporal Puniſh<g ref="char:EOLhyphen"/>ments (ſaith the excellent Biſhop <hi>Brownrig</hi>) they are but the Aſhes of the Furnace of Hell Fire, not to be compared to thoſe everlaſting Torments.</q> A pati<g ref="char:EOLhyphen"/>ent bearing of thoſe <hi>Afflictions</hi> with which <hi>God chaſtens</hi> his Children and Servants in this Life, is one good way to eſcape that Wrath, which he reſerves for his Enemies in the next.</p>
+               <p>Thus have I ſhewed you briefly what good reaſon we have to <hi>be ſubject to the Father of Spirits,</hi> rather than to the <hi>Fathers of our Fleſh,</hi> our natural or civil Parents, in regard of the greater <hi>Abſoluteneſs</hi> and <hi>Latitude</hi> of his Dominion.</p>
+               <pb n="27" facs="tcp:48108:19"/>
+               <p n="4">4. There is one thing more which advanceth <hi>God's Scepter,</hi> and awes us into a lower Submiſſion, and that is, <hi>the duration and continuance of his Dominion.</hi> This ſeems to be implied in our <hi>Apoſtle's</hi> preſent Argument in the very next <hi>Verſe</hi> to my <hi>Text; They verily,</hi> (that is, the Fathers of our Fleſh) <hi>for a few days chaſtned us.</hi> Their's, if a ſevere, is but a ſhort-liv'd Empire: <hi>But God who ſhews Mercy to thouſands, puniſheth alſo to the third and fourth Generation;</hi> yea, <hi>His Kingdom,</hi> as the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> ſpeaks, is <hi>an everlaſting Kingdom,</hi>
+                  <note place="margin">Pſal. 145.13.</note> 
+                  <hi>and his Domi<g ref="char:EOLhyphen"/>nion endureth throughout all Generations.</hi> I might ſay much more of <hi>God's Soveraignty</hi> and right of Rule over us, a right to give Laws, and to inflict Puniſh<g ref="char:EOLhyphen"/>ments, to exact Obedience and enforce Subjection. But I ſhall proceed to ſhew you in</p>
+            </div>
+            <div n="2" type="sermon">
+               <head>The Second Sermon.</head>
+               <p>SEcondly, <hi>That as is his Majeſty, ſuch is his Mer<g ref="char:EOLhyphen"/>cy;</hi> as he hath a more compleat and abſolute Right of <hi>Dominion</hi> over us, ſo <hi>he hath an infi<g ref="char:EOLhyphen"/>nitely more tender Love and Kindneſs for us,</hi> than the <hi>Fathers of our Fleſh</hi> have: This is implied in their proper <hi>Characters</hi> and diſtinctions, <hi>Fathers of our Fleſh,</hi> and <hi>Father of Spirits.</hi> This beſpeaks place by his very Name and Title, which bears Signatures of <hi>Goodneſs,</hi> altogether as illuſtrious as thoſe of <hi>Power,</hi> which you have ſeen diſplayed.</p>
+               <pb n="28" facs="tcp:48108:20"/>
+               <p>Where <hi>Fleſh</hi> in Scripture is not uſed to deſcribe Sin either original or actual, it for the moſt part denotes Weakneſs, if not the Corruption, the Frailty of our Na<g ref="char:EOLhyphen"/>ture: And <hi>Spirit</hi> is a word of a quite contrary Import, and carries in the notion of it high degrees of Purity, Knowledg, Power and Goodneſs. But,</p>
+               <p n="2">2. The Preheminence of God's Paternal Affection, and the Advantage of his Diſcipline, is more plainly repreſented in the laſt word of my Text, <hi>Live,</hi> and in the Explication of it by thoſe following words, They <hi>indeed for a few days chaſtned</hi> us after their Pleaſure, but <hi>he for our Profit.</hi>
+               </p>
+               <p>If they deſign their Childrens Good, they may either through want of Knowledg, or exceſs of Paſſion, miſtake the meaſures of their Diſcipline; but there are none of theſe Imperfections in the <hi>Father of Spirits.</hi> His Anger, which is the Product of Love, is alſo the Subject of Wiſdom, and managed by both for a ſingular Benefit.</p>
+               <p>He that is the <hi>Father of Spirits,</hi> knows their frame, and their Frailties, what Medicines they need, and what they will bear, and as his <hi>Wiſdom</hi> preſcribes and directs, his <hi>Love</hi> adminiſters and makes Application.</p>
+               <p n="1">1. <hi>He knows what Medicines they need,</hi> what will pre<g ref="char:EOLhyphen"/>judice their Health, and what will purge their Diſtem<g ref="char:EOLhyphen"/>pers, and therefore accordingly orders them <hi>pro jucundis aptiſſima quae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+                  <note place="margin">See the Art of Contentment, <hi>p. 123, 130.</hi>
+                  </note> profitable inſtead of pleaſant things, ſome<g ref="char:EOLhyphen"/>times wholſom Wormwood inſtead of luſcious Honey.</p>
+               <p>
+                  <hi rend="margQuotes">The ſame Wiſdom and Goodneſs which denies us thoſe things we like, becauſe they are hurtful for us, doth upon the very ſame reaſon give us thoſe diſtaſt<g ref="char:EOLhyphen"/>ful things which he ſees profitable.</hi>
+               </p>
+               <p>A wiſe Phyſician doth not only diet, but if occaſion be, purge his Patient alſo. And ſurely there is not
+<pb n="29" facs="tcp:48108:20"/>ſuch a Purifier, ſuch a Cleanſer of the Soul, as are Af<g ref="char:EOLhyphen"/>flictions, if we do not (like diſorderly Patients) fru<g ref="char:EOLhyphen"/>ſtrate their Efficacy by the irregular Managery of our ſelves under them.</p>
+               <p>God afflicts no further than the Neceſſities of his Pa<g ref="char:EOLhyphen"/>tients require, and what is ſhort of this, is, though un<g ref="char:EOLhyphen"/>der the ſhew of Compaſſion, a real Cruelty.</p>
+               <p>
+                  <hi>He doth not puniſh willingly,</hi>
+                  <note place="margin">Lam. 3.33. 1 Pet. 1.6.</note> 
+                  <hi>nor grieve the Children of Men.</hi> Now for <hi>a ſeaſon, if need be, you are in heavineſs through manifold Temptations.</hi> If our Affliction be ſharp and painful, certainly God ſeeth that we have need of it, otherwiſe he would handle us more gently.</p>
+               <p>The Husbandman plows not, but to ſow, and he plows and harrows no longer than till the Clods are broken: and God ſuffers <hi>wicked</hi> Men, whom the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> compares to Plowers, (or any other Haraſſers of our Eaſe and Content) no longer to make Furrows upon the <hi>Backs,</hi> or rather upon the Hearts of his Ser<g ref="char:EOLhyphen"/>vants, than till they are ſoftned and broken, and be<g ref="char:EOLhyphen"/>come a fit ſoil for his Graces to grow in. For,</p>
+               <p n="2">2. <hi>He that knows our frame, underſtands our Frailties</hi> too, not only what we need, but what we can bear, and <hi>remembers</hi> not only that our <hi>Bodies</hi> are <hi>Duſt,</hi> but that our <hi>Souls</hi> alſo partake of the Infirmities of their Companions, or rather of the Diſcompoſures of their Inſtruments, and therefore reſolves that he will not <hi>con<g ref="char:EOLhyphen"/>tend for ever, neither be always wrath,</hi>
+                  <note place="margin">Iſa. 57.16.</note> 
+                  <hi>leſt the Spirit ſhould fail before him, and the Souls which he hath made;</hi>
+                  <note place="margin">Ezra 9.13.</note> 
+                  <hi>but he puniſheth us leſs than our Iniquities deſerve,</hi>
+                  <note place="margin">2 Cor. 10.13.</note> and hath pro<g ref="char:EOLhyphen"/>miſed to <hi>lay no more upon us than we are able to bear,</hi> and that <hi>we ſhall not be tempted above our Strength.</hi>
+               </p>
+               <p>If he <hi>chaſten</hi> ſore, he <hi>will not deſtroy;</hi> if he cauſe <hi>Grief,</hi>
+                  <note place="margin">Lam. 3.32.</note> 
+                  <hi>yet will he have Compaſſion according to the multitude of
+<pb n="30" facs="tcp:48108:21"/>his Mercies.</hi>
+                  <note place="margin">Pſal. 102.13,</note> 
+                  <hi>Many times turned he his Anger away, and did not ſuffer his whole Indignation to ariſe, for he remem<g ref="char:EOLhyphen"/>bred that they were but Fleſh.</hi>
+               </p>
+               <p>God will either enlarge our Grace, or abate our Trouble, ſo that it ſhall not overwhelm us.</p>
+               <p>Who can lift up a Complaint againſt ſo compaſſio<g ref="char:EOLhyphen"/>nate a <hi>Father?</hi> Who can rebel, ſo much as in a hard thought, of the Rigor of his Diſcipline? Eſpecially if we conſider that he is altogether as much a <hi>Father</hi> when he <hi>corrects,</hi> as when he <hi>cheriſheth</hi> us; and that he deſigns the ſame Good in a variety of Conditions. He gives Riches to ſome, that they may honour him with their Subſtance, and keeps them from others, leſt they ſhould abuſe them to Avarice or Riot. To ſome he gives Children to be the Staff and Solace of their Pilgrimage, and takes them from others, leſt they ſhould take them from himſelf, and draw down their <hi>Affections from things above.</hi>
+                  <note place="margin">Eceius 37.28.</note> Some he continues in this World <hi>to declare the Works of the Lord,</hi> and others he takes out of it <hi>to reſt from their own Labours. All things,</hi> ſaith the <hi>wiſe Man, are not profitable for all Men.</hi> And the Wiſdom of the Divine Providence is ſeen as well in ſending Winter, as Summer, Autumn as Spring, foul Weather as fair, Adverſity as Proſperity, Sickneſs as Health, and Death as Life.</p>
+               <p>It was a high Speech of <hi>Seneca</hi>'s (after the manner of the Stoicks) <hi>Bona rerum ſecundarum optabilia, adver<g ref="char:EOLhyphen"/>ſarum mirabilia: That the good things of Proſperity are to be wiſhed, and the good things of Adverſity are to be admi<g ref="char:EOLhyphen"/>red.</hi> But to ſpeak the words not only of Truth, but Soberneſs, great and numerous are the Benefits of Ad<g ref="char:EOLhyphen"/>verſity. The <hi>Judicious Verulam</hi> magnifies and extols them in this Compariſon:<note place="margin">Eſſays.</note> 
+                  <hi>Proſperity is the Bleſſing of
+<pb n="31" facs="tcp:48108:21"/>the Old Teſtament, Adverſity of the New,</hi> which carrieth <hi>the greater Benediction, and the clearer Revelation of God's Favour.</hi>
+               </p>
+               <p>
+                  <hi>Solomon</hi> pronounces <hi>Sorrow</hi> more deſirable than <hi>Laughter,</hi>
+                  <note place="margin">Eccleſ. 7 3.</note> 
+                  <hi>becauſe by the ſadneſs of the Countenance the Heart is made better.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>Our bleſſed Lord and Maſter,</hi> who began, and lived and died in Sorrows, ſeeing his own Sufferings to ſucceed ſo well, and that for ſuffering Death, he was crowned with Immortality, reſolved to take all his Diſciples and Ser<g ref="char:EOLhyphen"/>vants to the Fellowſhip of the ſame Sufferings, that they might have a Participation of his Glory.</q>
+               </p>
+               <p>
+                  <hi>No Affliction,</hi> ſaith our <hi>Apoſtle,</hi> a little after my <hi>Text,</hi> is <hi>for the preſent joyous, but grievous; nevertheleſs it produ<g ref="char:EOLhyphen"/>ceth the peaceable Fruits of Righteouſneſs to thoſe that are exerciſed therewith.</hi>
+               </p>
+               <p>Thoſe ſhowers which wet the Husbandman, multi<g ref="char:EOLhyphen"/>ply his Grain, and a dripping Seeds time is uſually fol<g ref="char:EOLhyphen"/>lowed with a more plentiful Harveſt. If the Servants of <hi>God</hi> ſow in Tears and Blood, thoſe Tears and Blood will but water and manure their Graces, and make them ſpring up, and blow into a fuller and fairer Glo<g ref="char:EOLhyphen"/>ry: Thick Miſts uſher in a bright day, and Clouds of Sorrows are uſually the fore-runners of a more clear and conſtant Joy, and <hi>Death</hi> it ſelf is an inlet to im<g ref="char:EOLhyphen"/>mortal <hi>Life,</hi> which would bring me to the Concluſion of my <hi>Text</hi> and <hi>Sermon,</hi> the great and laſt end and bene<g ref="char:EOLhyphen"/>fit of all our <hi>Croſſes,</hi> or rather of our <hi>patient</hi> bearing of them, <hi>everlaſting Reſt,</hi> and Exemption from Trouble in the <hi>Life to come.</hi> But it will not be amiſs, not only for the vindicating of God's Juſtice, but alſo for the Exaltation of his Mercy, to ſhew in ſeveral Inſtances, what <hi>good Ends,</hi> though ſubordinate to this <hi>great one,</hi>
+                  <pb n="32" facs="tcp:48108:22"/>he propounds to himſelf in his moſt ſevere Chaſtnings. One good End is,</p>
+               <p n="1">1. <hi>To make us ſenſible of our Sins,</hi> and thereby to lead us to Repentance. In the warm Seaſons of Health and Proſperity, variety of delightful Objects call our Thoughts abroad, and we heighten the Pleaſure of our Enjoyments, by the proſpect of our Hopes, and eaſily flatter our ſelves that when the Sun ſhines, and the World ſmiles upon us, God is well pleaſed with us too; and that our Sins are little becauſe his Mercies are ſo great: but when ſtormy Clouds and Thunder are in the Air, we keep within doors, we retire into our ſelves, and in the <hi>time of Adverſity conſider,</hi> what and how great our <hi>Sins</hi> are which have overcaſt our <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> darkned the <hi>Light</hi> of <hi>God's Countenance,</hi> and made our <hi>Face foul with Weeping,</hi>
+                  <note place="margin">Job 10.16.</note> as <hi>Job</hi> ſpeaks.</p>
+               <p>The <hi>Goodneſs</hi> of <hi>God</hi> indeed ſhould <hi>lead us to Repen<g ref="char:EOLhyphen"/>tance;</hi> but ſuch is the Diſingenuity of our Natures, that we too often <hi>deſpiſe his Goodneſs,</hi> and force him either to leave us in our <hi>Sins,</hi> or puniſh us for them, which is the moſt merciful Cure that our Caſe will admit of. <hi>If they be bound in Fetters,</hi>
+                  <note place="margin">Job 36.7.</note> 
+                  <hi>and holden in Cords of Af<g ref="char:EOLhyphen"/>fliction, then he ſhews them their Work, and their Tranſ<g ref="char:EOLhyphen"/>greſſions,</hi> as <hi>Elihu</hi> ſpeaketh.</p>
+               <p>When God had taken away from <hi>Naomi</hi> her two Sons (though by an ordinary and uſual Death) ſhe concludes,<note place="margin">Ruth 1.13.</note> and ſo ſhould we in the like Caſe, that her Sins had deſerved it, and <hi>that the hand of the Lord was gone out againſt her. David</hi>'s Afflictions had this good Effect upon him,<note place="margin">Pſal. 35.5.</note> 
+                  <hi>When thy Hand was heavy upon me,</hi> &amp;c. <hi>I acknowledged my Sin unto thee, and mine Iniquity have I not hid.</hi> We are all too apt to <hi>turn the Grace of God into Wantonneſs,</hi> only impudent and hardned Sinners deſpiſe his <hi>Judgments.</hi>
+               </p>
+               <pb n="33" facs="tcp:48108:22"/>
+               <p n="2">2. As our <hi>Afflictions</hi> do in general admoniſh us of our <hi>Tranſgreſſions;</hi> ſo (as hath been already intimated) they point us to thoſe particular Sins which provoke God's Diſpleaſure. <hi>Joſeph</hi>'s Brethren eaſily acknow<g ref="char:EOLhyphen"/>ledged their Guilt, becauſe they ſaw their Sin written upon their Puniſhment; Their cloſe Impriſonment taught them what it was to caſt their Brother into a de<g ref="char:EOLhyphen"/>ſolate Pit. And the <hi>Wiſe-man</hi> obſerves, that the turn<g ref="char:EOLhyphen"/>ing of the Egyptian Waters into Blood, was a manifeſt Reproof of that cruel Commandment for the murder<g ref="char:EOLhyphen"/>ing of the <hi>Hebrew Infants.</hi>
+                  <note place="margin">Wiſd. 12.5.</note>
+               </p>
+               <p>And ſurely, as one ſpeaks, we might in moſt,<note place="margin">The Art of Contentment.</note> if not all our Sufferings, ſee ſome ſuch correſponding Circum<g ref="char:EOLhyphen"/>ſtances, as may lead us to the immediate provoking Cauſe of them. God who does all things in number, weight and meaſure, does in his Puniſhments alſo ob<g ref="char:EOLhyphen"/>ſerve a ſymmetry and proportion, and adapts them not only to the Heinouſneſs, but even the very ſpecifick kind of our Crimes, which was obſerved by <hi>Quintus Curtius</hi> in the caſe of <hi>Beſſus,</hi>
+                  <note place="margin">
+                     <hi>Quint. Curt.</hi> P. 203, 204.</note> who betrayed <hi>Darius. Sceleſti haud rarò ſupplicia luunt ejuſdem generis cum illis quae patrârunt flagitiis.</hi> Wicked Men are uſually paid home in their own Coin, made to ſuffer in the ſame way they ſinned; in which we ought not only to take notice of the <hi>Juſtice,</hi> but of the <hi>Mercy of God</hi> in giving ſuch Inſtructive Corrections, which, like <hi>Jonathan's Rod,</hi> that was <hi>dipped in Honey, enlighten our eyes,</hi>
+                  <note place="margin">1 Sam. 14.27.</note> diſco<g ref="char:EOLhyphen"/>ver to us by a very affecting Evidence, both the nature of our Sin, and the neceſſity of our Repentance.</p>
+               <p n="3">3. <hi>God ſends Afflictions to try us. Behold, I will melt them, and try them.</hi> Jer. 9.7.</p>
+               <p>Now this fiery, this melting Trial, hath theſe two good Ends.</p>
+               <pb n="34" facs="tcp:48108:23"/>
+               <list>
+                  <item>1. <hi>To refine our Natures, to purge away our Droſs and Corruption.</hi>
+                  </item>
+                  <item>2. <hi>To diſcover and illuſtrate our Virtues and Graces.</hi>
+                  </item>
+               </list>
+               <p n="1">1. <hi>To purify our Natures and purge away our Droſs and Defilements.</hi>
+                  <note place="margin">Prov. 17 3.</note> 
+                  <hi>The fining Pot is for Silver, and the Furnace for Gold, but the Lord trieth the Hearts.</hi>
+               </p>
+               <p>We are by Nature <hi>Maſſa corrupta, Children of Wrath,</hi> being at beſt but like Gold and Silver in the Oar, till God puts us into his <hi>Fining-Pot,</hi> and <hi>his Furnace,</hi> yea after <hi>God's Grace</hi> hath renewed us in our firſt Conver<g ref="char:EOLhyphen"/>ſion, we have many groſs and droſſy Intermixtures, which will not eaſily be cleanſed off without a frequent Application of ſome ſearching <hi>Refiners;</hi> the <hi>Word of God</hi> indeed is an excellent one, <hi>Sanctify them by thy Truth, thy Word is Truth. The Word of the Lord tried him:</hi> Pſal. 105.19. and ſo it doth many others. But,</p>
+               <p n="2">2. Affliction is alſo a great Refiner: <hi>I have refined thee,</hi>
+                  <note place="margin">Iſa. 48.10.</note> 
+                  <hi>but not with Silver; I have choſen thee in the Fur<g ref="char:EOLhyphen"/>nace of Affliction.</hi> The Furnace is not for the hurt of the Gold, but for the Advantage and Improvement of it, it loſeth nothing there but its Droſs, and becomes more precious, more fit for the Maſter's uſe, to be made a Veſſel of Service and Honour: So are Troubles and Afflictions God's Inſtruments, to cleanſe and purify our Natures, to work out the Pride and Vanity of our Minds. This is that good end the <hi>Apoſtle</hi> refers to im<g ref="char:EOLhyphen"/>mediately after my <hi>Text, He chaſtens us for our Profit;</hi> How? <hi>That we may be Partakers of his Holineſs.</hi>
+               </p>
+               <p>And we ſhould endeavour to gather theſe <hi>Grapes</hi> and <hi>Figs</hi> even from our <hi>Thorns</hi> and Thiſtles, theſe
+<pb n="35" facs="tcp:48108:23"/>bleſſed Fruits of Humility, Holineſs, and Righteouſneſs, I mean, from the <hi>Tree of the Croſs,</hi> that ſo we may com<g ref="char:EOLhyphen"/>ply and cloſe with God's Merciful Purpoſe in afflicting us, ſaying with <hi>Elihu</hi> in all meekneſs, and true contri<g ref="char:EOLhyphen"/>tion of ſpirit, <hi>I have born Chaſtiſements,</hi>
+                  <note place="margin">Job 34.31, 32.</note> 
+                  <hi>I will not offend any more. That which I ſee not, teach thou me: If I have done Iniquity, I will do no more.</hi> But,</p>
+               <p n="2">2dly. <hi>Afflictions</hi> are ſent for tryals of the Truth, and ſincerity of our Graces, our <hi>Faith, Patience,</hi> and the like: <hi>That the tryal of our Faith,</hi>
+                  <note place="margin">1 Pet. 1.7.</note> 
+                  <hi>being much more precious than that of Gold, which periſheth, though it be tryed with Fire, might be found unto praiſe, and honour, and glory,</hi> ſaith St. <hi>Peter:</hi> and <hi>Tribulation worketh Patience,</hi> ſaith St. <hi>Paul.</hi> To both theſe, that of <hi>Minutius Felix</hi> ſeems to refer, <hi>
+                     <g ref="char:V">Ʋ</g>t Aurum ignibus, ſic nos diſcriminibus argui<g ref="char:EOLhyphen"/>mur;</hi> as Fire trieth Gold, ſo Croſſes and Perils diſco<g ref="char:EOLhyphen"/>ver the Truth and the ſtrength of Virtue.</p>
+               <p>This is taught us in the Parable of the Stony Ground. Every forward Hearer of the Word, every ſpecious Profeſſor goes for a good <hi>Chriſtian,</hi> till he is like to ſuffer for his Profeſſion, and till <hi>Tribulation</hi> or <hi>Perſecu<g ref="char:EOLhyphen"/>tion</hi> ariſe <hi>becauſe of the Word.</hi>
+                  <note place="margin">Mat. 13.20, 21</note>
+               </p>
+               <p>God indeed ſees through our hypocritical Cove<g ref="char:EOLhyphen"/>rings, all our painted and guilt Out-ſides, and needs no Touchſtone to find out our hidden Faults. But be<g ref="char:EOLhyphen"/>cauſe we are ſometimes apt to miſtake our ſelves, our own Strength, as St. <hi>Peter</hi> once did, God in Mercy tries us to give us a right underſtanding of our ſelves, of the true Habit of our Minds. <hi>Seneca</hi> reports it as the ſaying of his admired <hi>Demetrius:</hi>
+                  <note place="margin">
+                     <hi>Lib.</hi> de provi<g ref="char:EOLhyphen"/>dentia.</note> 
+                  <hi>Nihil mihi videtur infoelicius eo, cui nihil evenit adverſi. I think no Perſon ſo unhappy, as he who enjoys an uninterrupted Felicity.</hi> And he ſhews his Approbation of it by giving this
+<pb n="36" facs="tcp:48108:24"/>Reaſon for it, <hi>Non licuit enim illi ſe experiri, for he could never prove</hi> and know <hi>himſelf,</hi> what he was, and what he was able to do or ſuffer. Agreeable hereunto is that of St. <hi>Auſtin, Tentat Deus non ut ipſe hominem inveniat, ſed ut homo ſe inveniat: God therefore thus tries, not that he may find out a Man, but that Man may find out himſelf,</hi> and be ſenſible of his own condition.</p>
+               <p n="4">4.<note place="margin">Hoſ. 5.15.</note> 
+                  <hi>Afflictions make us more frequent and fervent in Prayer.</hi> Moſt Men too much forget the <hi>God</hi> of their Mercies, but <hi>in their Affliction they will ſeek me early. Lord,</hi>
+                  <note place="margin">Iſa. 26.16.</note> 
+                  <hi>in trouble have they viſited thee, they poured out a Prayer when thy Chaſtiſement was upon them.</hi> The Sun of Proſperity puts out the Fire of Devotion, which is kindled and enflamed by the <hi>Antiperiſtaſis</hi> of a Winter Blaſt, a bleak Seaſon of Adverſity. <hi>Iſrael</hi> learnt not to mourn until they were ſent to <hi>Bahel. Jonas</hi> ſleeps in the Ship, but wakes, and prays in the Whale's Belly.</p>
+               <p n="5">5. <hi>God in Mercy exerciſeth good Men with Croſſes and Sufferings, to wean them from the World,</hi> to diſcover the Indifferency, if not the Worthleſneſs of thoſe Perſons or Things which they promiſe themſelves moſt Satis<g ref="char:EOLhyphen"/>faction and Comfort from: In our Friends and Relati<g ref="char:EOLhyphen"/>ons it is uſually ſeen, <hi>God</hi> ſooneſt takes thoſe from us, for whom we have the greateſt and moſt immoderate Paſſion, leſt they ſhould alienate our Affections from himſelf, or abate the degrees of them, and cool our purſuit of a <hi>Heavenly Happineſs.</hi>
+               </p>
+               <p>Yea, when he takes away our <hi>Children,</hi> the dear Parts of our ſelves, the Off-ſets of our Stock, he doth not only deſign the better Growth and Fruitfulneſs of our own Spiritual Life, by removing the Suckers of Piety and Virtue; but he deſigns alſo their Improve<g ref="char:EOLhyphen"/>ment
+<pb n="37" facs="tcp:48108:24"/>and unſpeakable Advantage, by tranſplanting them into his own <hi>Paradiſe.</hi>
+               </p>
+               <p>
+                  <hi>Pliny</hi> the eldeſt, (though he could not ſee into the Glories of another Life for want of our <hi>Revelation,</hi> yet had ſtudied the World very much, and for his parts of Nature, Wit and Curioſity, and other great Advan<g ref="char:EOLhyphen"/>tages of Fortune, might be ſuppoſed to know as much as any mere <hi>Philoſopher</hi>) made this Obſervation, that no Wiſh was more frequent among Men, than the Wiſh of Death, and thereupon his Concluſion is, that <hi>Natura nihil brevitate vitae praeſtitit melius; that Nature hath not done us ſo great a Kindneſs in any thing, as in ſhort<g ref="char:EOLhyphen"/>ning our ſtay in this Life,</hi> that we may not contract too great an Intimacy with the World.</p>
+               <p>And that we may not too much lament the Condi<g ref="char:EOLhyphen"/>tion of thoſe that leave the <hi>World,</hi> before it leaves them, who are blaſted in the Beauty, and Flower of their Youth, have their Evening before Noon, and die in their firſt Enjoments of the Pleaſures of Life. He elſe<g ref="char:EOLhyphen"/>where calls Death, <hi>Praecipuum Naturae bonum, the chief Bleſſing of Nature,</hi> which cannot come out of Seaſon; becauſe there is no Good in this Life, which is not ei<g ref="char:EOLhyphen"/>ther tempered with ſome preſent Evil, or followed with ſome evil Effects and Inconveniencies: according to that of <hi>Pliny the younger,</hi> in his incomparable Pane<g ref="char:EOLhyphen"/>gyrick; <hi>Habet has vices conditio mortalium, ut adverſa ex ſecundis, ex ſecundis adverſa naſcantur; Such is the changeable State of us Sejourners upon Earth, that our Com<g ref="char:EOLhyphen"/>forts breed Croſſes, and what we reap in Joy, was firſt ſowed in Tears.</hi>
+               </p>
+               <p>This is another good End of God's chaſtning us, to wean our Affections from this World, while we live in it, and to reconcile us to Death, our laſt Enemy, and
+<pb n="38" facs="tcp:48108:25"/>to make us willing to follow our Friends into another World, who could not ſtay with us here, and from whom we cannot there be ſeparated.</p>
+               <p>I ſay, me-thinks we ſhould not be very fond of ſuch a Life, either for our ſelves, or thoſe we love beſt; which is not only ſo ſhort that it cannot be kept long, but withal, ſo full of Trouble, that it is hardly worth the keeping; nor by conſequence to dote on a flatte<g ref="char:EOLhyphen"/>ring World, which is ſo little to be enjoyed, and its En<g ref="char:EOLhyphen"/>joyments ſo very full of vexatious Mixtures.</p>
+               <p n="6">6.<note place="margin">
+                     <hi>Lib.</hi> de provi<g ref="char:EOLhyphen"/>dentiâ.</note> 
+                  <hi>Beſides that particular and perſonal Good which God deſigneth us in our Chaſtiſements, he reacheth the Be<g ref="char:EOLhyphen"/>nefit of our Example to others,</hi> and teacheth them Pati<g ref="char:EOLhyphen"/>ence and Conſtancy by our Subjection to his <hi>Fatherly</hi> Diſcipline. <hi>Seneca</hi> ſpeaks it of good Men in their Suf<g ref="char:EOLhyphen"/>ferings, <hi>Nati ſunt in Exemplar, they are born to be Patterns to others.</hi> And we are adviſed in this Chapter to conſi<g ref="char:EOLhyphen"/>der our <hi>Saviour</hi>'s Endurance, for the fortifying of our ſelves, the Confirmation of our Courage and Pati<g ref="char:EOLhyphen"/>ence, <hi>leſt we be wearied and faint in our Minds. Chriſt ſuffered for us,</hi>
+                  <note place="margin">1 Pet 2.21.</note> ſaith St. <hi>Peter, leaving us an Example that we ſhould follow his Steps.</hi>
+               </p>
+               <p n="7">7. God deſigns a future Good in our preſent Cha<g ref="char:EOLhyphen"/>ſtiſements, and the Prevention of a greater Evil, than that which now oppreſſeth us. <hi>The Father of Spirits</hi> re<g ref="char:EOLhyphen"/>gardeth principally their Intereſt, and if he grieve them here it is that he may ſpare them the better hereafter; <hi>When we are judged,</hi>
+                  <note place="margin">1 Cor. 11.32.</note> 
+                  <hi>we are chaſtned of the Lord, that we ſhould not be condemned with the World.</hi> And indeed, what can afford us ſo firm and ſolid a Support under all our Loſſes and Croſſes, all our Diſappointments and Calamities of this Life, as the comfortable Aſſurance and Expectation of a bleſſed Immortality? You have
+<pb n="39" facs="tcp:48108:25"/>heard that the <hi>Father of Spirits</hi> projects many Benefits and Advantages to us in thoſe Afflictions which ſeem moſt to expreſs his Diſpleaſure, and that we ought to receive them chearfully at his hand, as the Medicines of our Soul, and the Seaſonings of our Fortune, as the Incentives of our Devotion, and the Inſtruments, Po<g ref="char:EOLhyphen"/>liſhers and Diſcoverers of our Vertue; but that which will enable us not only to bear the Croſs with Pati<g ref="char:EOLhyphen"/>ence, but with Triumph, and <hi>to glory in Tribulations,</hi> as the <hi>Apoſtle</hi> ſpeaks, is the Preſage of future Joy, and that well-grounded <hi>Hope of Glory,</hi> which they excite in our Souls. So that in regard of this great and laſt Be<g ref="char:EOLhyphen"/>nefit of our Sufferings, I may forbear any further Per<g ref="char:EOLhyphen"/>ſwaſions to Patience, and leave you under the Com<g ref="char:EOLhyphen"/>mand and Compulſion of ſo prevailing a Motive as your own <hi>Eternal Life</hi> and <hi>Happineſs.</hi> If there are o<g ref="char:EOLhyphen"/>ther very good Reaſons, as you have heard derived from the <hi>Power</hi> and <hi>Goodneſs of God,</hi> this may ſuper<g ref="char:EOLhyphen"/>ſede them all, <hi>How much rather ſhall we be in Subjection to the Father of Spirits, and live? Live</hi> longer and more comfortably in <hi>this World, live</hi> for ever in an Eternity of Health and Happineſs in the <hi>next.</hi>
+               </p>
+               <closer>
+                  <salute>Now, the God of all Grace, who hath called us to his Eternal Glory by Chriſt Jeſus, after that ye have ſuffered a while, make you perfect, ſtabliſh, ſtrengthen, ſettle you. To him be Glory and Dominion for ever and ever. <hi>Amen.</hi>
+                  </salute>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
